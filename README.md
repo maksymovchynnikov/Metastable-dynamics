@@ -7,7 +7,11 @@ This is the Mathematica code to trace the evolution of metastable species -- pio
 
 ## How to launch
 
-Just launch the initialization cells in the main notebook <dt><code>main.nb</code></dt> and follow the Appendix of .
+Just launch the initialization cells in the main notebook <dt><code>main.nb</code></dt> and follow the Appendix of the associated preprint.
+
+The corresponding [Zenodo repository](https://feyncalc.github.io/) containts precomputed data that may be used to make some plots from the associated preprints.
+
+
 
 ## Requirements
 
