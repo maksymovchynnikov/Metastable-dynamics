@@ -7,7 +7,7 @@ This is the Mathematica code to trace the evolution of metastable species - pion
 
 ## How to launch
 
-Just launch the initialization cells in the main notebook <code>main.nb</code> and follow the Appendix of the associated preprint.
+Just launch the initialization cells in the main notebook <code>main.nb</code> and follow the Appendix of the associated preprints [2411.00931](https://arxiv.org/abs/2411.00931) and [2411.00892](https://arxiv.org/abs/2411.00892).
 
 The corresponding [Zenodo repository](https://doi.org/10.5281/zenodo.14020343) containts precomputed data that may be used to make some plots from the associated preprints.
 
