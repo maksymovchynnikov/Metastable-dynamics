@@ -9,7 +9,7 @@ This is the Mathematica code to trace the evolution of metastable species - pion
 
 Just launch the initialization cells in the main notebook <code>main.nb</code> and follow the Appendix of the associated preprint.
 
-The corresponding [Zenodo repository](https://feyncalc.github.io/) containts precomputed data that may be used to make some plots from the associated preprints.
+The corresponding [Zenodo repository](https://doi.org/10.5281/zenodo.14020343) containts precomputed data that may be used to make some plots from the associated preprints.
 
 
 
