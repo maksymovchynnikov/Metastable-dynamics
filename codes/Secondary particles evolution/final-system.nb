@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    120835,       2784]
-NotebookOptionsPosition[    118332,       2737]
-NotebookOutlinePosition[    118817,       2755]
-CellTagsIndexPosition[    118774,       2752]
+NotebookDataLength[    151928,       3435]
+NotebookOptionsPosition[    150093,       3395]
+NotebookOutlinePosition[    150578,       3413]
+CellTagsIndexPosition[    150535,       3410]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -1109,9 +1109,8 @@ Cell[BoxData[{
    3.9364612488294735`*^9, 3.9364612636496167`*^9}, {3.936461679358889*^9, 
    3.936461747840767*^9}, 3.9364626167698784`*^9, {3.936462697498728*^9, 
    3.936462705701445*^9}, {3.9364650935155687`*^9, 3.936465106072221*^9}, {
-   3.9393567579163837`*^9, 
-   3.9393567706875687`*^9}},ExpressionUUID->"0e23c780-74dc-4da4-8d5b-\
-f0bee7d70793"],
+   3.9393567579163837`*^9, 3.9393567706875687`*^9}},
+ CellLabel->"In[5]:=",ExpressionUUID->"0e23c780-74dc-4da4-8d5b-f0bee7d70793"],
 
 Cell[CellGroupData[{
 
@@ -1583,10 +1582,7 @@ Cell[BoxData[
    3.9364654438150587`*^9}, {3.936465530336696*^9, 3.936465629902351*^9}, {
    3.936465662604607*^9, 3.93646566983315*^9}, {3.936465702453152*^9, 
    3.9364657072102633`*^9}},
- CellLabel->
-  "In[153]:=",ExpressionUUID->"30687c51-a89c-48d7-8422-290c81947f61"],
-
-Cell[CellGroupData[{
+ CellLabel->"In[7]:=",ExpressionUUID->"30687c51-a89c-48d7-8422-290c81947f61"],
 
 Cell[BoxData[
  RowBox[{
@@ -1645,95 +1641,9 @@ fSsfgukZX2Wegeh722LBtJHd77cg2u+09juw/O0L9SZAOuydRgOIdi9e2w6i
 lzJeBtMLN+zoBdH7F30B0wXTJGaCaBMfPzDN5qYpagYKt28lYFrL8akHiDaR
 tvYE0Q8mCSWC6LxoNTCdMHVLq3foW0cnUc02EA0Aw5e1wg==
   "],
- CellLabel->"In[8]:=",ExpressionUUID->"e487b458-66d9-47a3-9de9-f35307c2c9aa"],
-
-Cell[BoxData[
- FormBox[
-  RowBox[{"{", 
-   RowBox[{
-   "0.31`", ",", "0.1`", ",", "2.793634922067541`*^-10", ",", 
-    "2.966963003665329`", ",", "0.06192159077800743`", ",", 
-    "0.12367533944959012`", ",", "0.019027792803353927`", ",", 
-    "0.19579641505607123`", ",", "0.5361279288193275`", ",", "0.`", ",", 
-    "0.`", ",", "0.4255020616385478`"}], "}"}], TraditionalForm]], "Output",
- CellChangeTimes->{3.9364598382702165`*^9, 3.9364605668984537`*^9, 
-  3.936460665847343*^9, 3.9364609786186705`*^9, 3.9364612950294714`*^9, 
-  3.936461895143935*^9, 3.9364620349783907`*^9, 3.9364654901919403`*^9, 
-  3.9364656406777897`*^9, 3.9364656820930367`*^9, 3.936465718449496*^9},
- CellLabel->
-  "Out[385]=",ExpressionUUID->"9364cfd2-7c13-4aff-8146-2b49c3d61caa"],
-
-Cell[BoxData[
- FormBox["0.31255016050719375`", TraditionalForm]], "Output",
- CellChangeTimes->{3.9364598382702165`*^9, 3.9364605668984537`*^9, 
-  3.936460665847343*^9, 3.9364609786186705`*^9, 3.9364612950294714`*^9, 
-  3.936461895143935*^9, 3.9364620349783907`*^9, 3.9364654901919403`*^9, 
-  3.9364656406777897`*^9, 3.9364656820930367`*^9, 3.936465718455*^9},
- CellLabel->
-  "Out[386]=",ExpressionUUID->"7a903104-c386-4e4e-a9ff-75db152267b6"],
-
-Cell[BoxData[
- FormBox["0.03921463315570748`", TraditionalForm]], "Output",
- CellChangeTimes->{3.9364598382702165`*^9, 3.9364605668984537`*^9, 
-  3.936460665847343*^9, 3.9364609786186705`*^9, 3.9364612950294714`*^9, 
-  3.936461895143935*^9, 3.9364620349783907`*^9, 3.9364654901919403`*^9, 
-  3.9364656406777897`*^9, 3.9364656820930367`*^9, 3.936465718512394*^9},
- CellLabel->
-  "Out[387]=",ExpressionUUID->"89176fc1-fc70-4219-8a66-ebb2a15796ae"],
-
-Cell[BoxData[
- FormBox[
-  TemplateBox[{
-   "Part", "partd", 
-    "\"Part specification \\!\\(\\*FormBox[RowBox[{\\\"Null\\\", \\\"\
-\[LeftDoubleBracket]\\\", \\\"1\\\", \\\"\[RightDoubleBracket]\\\"}], \
-TraditionalForm]\\) is longer than depth of object.\"", 2, 388, 17, 
-    25763031995704948306, "Local"},
-   "MessageTemplate"], TraditionalForm]], "Message", "MSG",
- CellChangeTimes->{3.9364598413652835`*^9, 3.936460572834219*^9, 
-  3.9364606692902412`*^9, 3.936460981903372*^9, 3.9364613018358583`*^9, 
-  3.9364619016892414`*^9, 3.9364620383371153`*^9, 3.936465493774276*^9, 
-  3.9364656443776226`*^9, 3.9364656859199376`*^9, 3.936465722194681*^9},
- CellLabel->
-  "During evaluation of \
-In[384]:=",ExpressionUUID->"bb665822-3e46-417e-984a-bbe896788aef"],
-
-Cell[BoxData[
- FormBox[
-  RowBox[{"Null", "\[LeftDoubleBracket]", "1", "\[RightDoubleBracket]"}], 
-  TraditionalForm]], "Output",
- CellChangeTimes->{3.9364598382702165`*^9, 3.9364605668984537`*^9, 
-  3.936460665847343*^9, 3.9364609786186705`*^9, 3.9364612950294714`*^9, 
-  3.936461895143935*^9, 3.9364620349783907`*^9, 3.9364654901919403`*^9, 
-  3.9364656406777897`*^9, 3.9364656820930367`*^9, 3.9364657222114925`*^9},
- CellLabel->
-  "Out[388]=",ExpressionUUID->"e4f1bdcb-3902-497a-bfae-324ac08c729e"],
-
-Cell[BoxData[
- FormBox["1", TraditionalForm]], "Output",
- CellChangeTimes->{3.9364598382702165`*^9, 3.9364605668984537`*^9, 
-  3.936460665847343*^9, 3.9364609786186705`*^9, 3.9364612950294714`*^9, 
-  3.936461895143935*^9, 3.9364620349783907`*^9, 3.9364654901919403`*^9, 
-  3.9364656406777897`*^9, 3.9364656820930367`*^9, 3.9364657222114925`*^9},
- CellLabel->
-  "Out[389]=",ExpressionUUID->"84208737-9f43-492a-a9d9-300c4122976d"],
-
-Cell[BoxData[
- FormBox[
-  RowBox[{
-   RowBox[{"0.00003318226775837226`", " ", 
-    SuperscriptBox[
-     RowBox[{"aRatio", "(", "0.2`", ")"}], "3"]}], "+", "0.`"}], 
-  TraditionalForm]], "Output",
- CellChangeTimes->{3.9364598382702165`*^9, 3.9364605668984537`*^9, 
-  3.936460665847343*^9, 3.9364609786186705`*^9, 3.9364612950294714`*^9, 
-  3.936461895143935*^9, 3.9364620349783907`*^9, 3.9364654901919403`*^9, 
-  3.9364656406777897`*^9, 3.9364656820930367`*^9, 3.936465722229792*^9},
- CellLabel->
-  "Out[390]=",ExpressionUUID->"b6dc588e-6afd-49e6-8c35-50bac5827b89"]
+ CellLabel->"In[8]:=",ExpressionUUID->"e487b458-66d9-47a3-9de9-f35307c2c9aa"]
 }, Open  ]]
-}, Open  ]]
-}, Open  ]]
+}, Closed]]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -1793,7 +1703,7 @@ Cell[BoxData[{
         ";"}]}], "\[IndentingNewLine]", "]"}], ";", "\[IndentingNewLine]", 
      "tpoints"}]}], "\[IndentingNewLine]", "]"}]}], "\[IndentingNewLine]", 
  RowBox[{
-  RowBox[{"ProdProbChecker", "[", 
+  RowBox[{"ProdProbCheckerLLP", "[", 
    RowBox[{"LLP_", ",", "mLLP_", ",", "particle_"}], "]"}], ":=", 
   RowBox[{"Module", "[", 
    RowBox[{
@@ -1910,9 +1820,8 @@ Cell[BoxData[{
       "cond"}]}], "\[IndentingNewLine]", "]"}]}], "\[IndentingNewLine]", 
  RowBox[{
   RowBox[{"mergedFunction", "[", 
-   RowBox[{
-   "LLPsel_", ",", "mllp_", ",", "\[Tau]llp_", ",", "particles_", ",", 
-    "DecayOnly_"}], "]"}], ":=", 
+   RowBox[{"LLPsel_", ",", "mllp_", ",", "\[Tau]llp_", ",", "DecayOnly_"}], 
+   "]"}], ":=", 
   RowBox[{"Block", "[", 
    RowBox[{
     RowBox[{"{", 
@@ -1934,8 +1843,10 @@ Cell[BoxData[{
       "aratiosol", ",", "ntoKp", ",", "ntoKL", ",", "nto\[Mu]", ",", 
       "nto\[Pi]", ",", "tIniEM", ",", "solutionsThermodynamics", ",", 
       "solUniverseApprox", ",", "decayProb", ",", "\[Rho]\[Nu]InjSol", ",", 
-      "\[Rho]InjSol", ",", "placeholder", ",", "tpoints"}], "}"}], ",", 
-    "\[IndentingNewLine]", 
+      "\[Rho]InjSol", ",", "placeholder", ",", "tpoints", ",", "trange", ",", 
+      "solYnew", ",", "descr", ",", "func", ",", "T\[Gamma]solApprox", ",", 
+      "aratiosolApprox", ",", "probDec", ",", "probNucl", ",", "probAnn"}], 
+     "}"}], ",", "\[IndentingNewLine]", 
     RowBox[{"(*", 
      RowBox[{
       RowBox[{
@@ -1993,10 +1904,8 @@ Cell[BoxData[{
        RowBox[{
         RowBox[{
          RowBox[{"{", 
-          RowBox[{"(*", 
-           RowBox[{"solutionsThermodynamics", ","}], "*)"}], 
-          RowBox[{"solUniverseApprox", ",", "tIniEM", ",", "solY"}], "}"}], 
-         "=", 
+          RowBox[{"solUniverseApprox", ",", "tIniEM", ",", "solYnew"}], "}"}],
+          "=", 
          RowBox[{"If", "[", 
           RowBox[{
            RowBox[{"!", "DecayOnly"}], ",", "\[IndentingNewLine]", 
@@ -2004,14 +1913,15 @@ Cell[BoxData[{
             RowBox[{
             "mllp", ",", "\[Tau]llp", ",", "nLLPiniVal", ",", "1", ",", 
              "ntoKp", ",", "ntoKL", ",", "nto\[Pi]", ",", "nto\[Mu]", ",", 
-             "True", ",", "True", ",", "True", ",", "True"}], "]"}], ",", 
-           "\[IndentingNewLine]", 
+             "True", ",", "True", ",", "True", ",", "True", ",", 
+             SuperscriptBox["10", "5"]}], "]"}], ",", "\[IndentingNewLine]", 
            RowBox[{"BlockFullSystemNumberDens", "[", 
             RowBox[{
             "mllp", ",", "\[Tau]llp", ",", "nLLPiniVal", ",", "1", ",", 
              "ntoKp", ",", "ntoKL", ",", "nto\[Pi]", ",", "nto\[Mu]", ",", 
-             "True", ",", "False", ",", "False", ",", "False"}], "]"}]}], 
-          "\[IndentingNewLine]", "]"}]}], ";"}], "\[IndentingNewLine]", 
+             "True", ",", "False", ",", "False", ",", "False", ",", 
+             SuperscriptBox["10", "5"]}], "]"}]}], "\[IndentingNewLine]", 
+          "]"}]}], ";"}], "\[IndentingNewLine]", 
        RowBox[{"(*", 
         RowBox[{
          RowBox[{
@@ -2039,7 +1949,30 @@ Cell[BoxData[{
           RowBox[{"Xnsol", "[", "t_", "]"}], "=", 
           RowBox[{"sc", "*", 
            RowBox[{"Xnsol", "[", "t", "]"}]}]}], ";"}], "*)"}], 
-       "\[IndentingNewLine]", ",", "\[IndentingNewLine]", 
+       "\[IndentingNewLine]", 
+       RowBox[{"(*", 
+        RowBox[{
+         RowBox[{"solUniverseApprox", "=", 
+          RowBox[{"Table", "[", 
+           RowBox[{
+            RowBox[{
+             RowBox[{
+              RowBox[{
+               RowBox[{"solUniverseApprox", "[", 
+                RowBox[{"[", "i", "]"}], "]"}], "[", 
+               RowBox[{"[", "1", "]"}], "]"}], "[", 
+              RowBox[{"[", "0", "]"}], "]"}], "->", 
+             RowBox[{
+              RowBox[{
+               RowBox[{"solUniverseApprox", "[", 
+                RowBox[{"[", "i", "]"}], "]"}], "[", 
+               RowBox[{"[", "2", "]"}], "]"}], "[", 
+              RowBox[{"[", "0", "]"}], "]"}]}], ",", 
+            RowBox[{"{", 
+             RowBox[{"i", ",", "1", ",", 
+              RowBox[{"Length", "[", "solUniverseApprox", "]"}], ",", "1"}], 
+             "}"}]}], "]"}]}], ";"}], "*)"}], "\[IndentingNewLine]", ",", 
+       "\[IndentingNewLine]", 
        RowBox[{
         RowBox[{
          RowBox[{"{", 
@@ -2066,12 +1999,16 @@ Cell[BoxData[{
       RowBox[{"solveEvolutionCorrectedFull", "[", 
        RowBox[{
        "LLPsel", ",", "mllp", ",", "\[Tau]llp", ",", "nLLPiniVal", ",", 
-        "tIniEM", ",", "tfinSim", ",", "solY"}], "]"}]}], ";", 
+        "tIniEM", ",", "tfinSim", ",", "solYnew"}], "]"}]}], ";", 
      "\[IndentingNewLine]", 
      RowBox[{
       RowBox[{"T\[Gamma]sol", "[", "t_", "]"}], "=", 
       RowBox[{
        RowBox[{"T\[Gamma]", "[", "t", "]"}], "/.", "solUniverse"}]}], ";", 
+     "\[IndentingNewLine]", 
+     RowBox[{
+      RowBox[{"T\[Gamma]solApprox", "[", "t_", "]"}], "=", 
+      RowBox[{"T\[Gamma]", "/.", "solUniverseApprox"}]}], ";", 
      "\[IndentingNewLine]", 
      RowBox[{"T\[Gamma]fin", "=", 
       RowBox[{"T\[Gamma]sol", "[", "tfinSim", "]"}]}], ";", 
@@ -2080,6 +2017,10 @@ Cell[BoxData[{
       RowBox[{"aratiosol", "[", "t_", "]"}], "=", 
       RowBox[{
        RowBox[{"aRatio", "[", "t", "]"}], "/.", "solUniverse"}]}], ";", 
+     "\[IndentingNewLine]", 
+     RowBox[{
+      RowBox[{"aratiosolApprox", "[", "t_", "]"}], "=", 
+      RowBox[{"aRatio", "/.", "solUniverseApprox"}]}], ";", 
      "\[IndentingNewLine]", 
      RowBox[{"(*", 
       RowBox[{
@@ -2180,70 +2121,149 @@ Cell[BoxData[{
       RowBox[{"t0", "+", 
        RowBox[{"\[Tau]llp", "*", "lifetimeFactor"}]}]}], ";", 
      "\[IndentingNewLine]", 
+     RowBox[{"(*", 
+      RowBox[{
+       RowBox[{"Defining", " ", "probabilities", " ", "to", " ", "decay"}], 
+       ",", " ", "annihilate", ",", " ", 
+       RowBox[{
+       "and", " ", "interact", " ", "with", " ", "nucleons", " ", "for", " ", 
+        "each", " ", "metastable", " ", "particle"}]}], "*)"}], 
+     "\[IndentingNewLine]", 
      RowBox[{"Do", "[", "\[IndentingNewLine]", 
       RowBox[{
        RowBox[{"If", "[", 
         RowBox[{"DecayOnly", ",", "\[IndentingNewLine]", 
          RowBox[{
           RowBox[{
-           RowBox[{"decayProb", "[", 
-            RowBox[{"particle", ",", "t_"}], "]"}], "=", "1."}], ";"}], 
+           RowBox[{"probDec", "[", 
+            RowBox[{"particle", ",", "t_"}], "]"}], "=", "1."}], ";", 
+          "\[IndentingNewLine]", 
+          RowBox[{
+           RowBox[{"probNucl", "[", 
+            RowBox[{"particle", ",", "t_"}], "]"}], "=", "0."}], ";", 
+          "\[IndentingNewLine]", 
+          RowBox[{
+           RowBox[{"probAnn", "[", 
+            RowBox[{"particle", ",", "t_"}], "]"}], "=", "0."}], ";"}], 
          "\[IndentingNewLine]", ",", "\[IndentingNewLine]", 
          RowBox[{"If", "[", 
           RowBox[{
-           RowBox[{"ProdProbChecker", "[", 
+           RowBox[{"ProdProbCheckerLLP", "[", 
             RowBox[{"LLPsel", ",", "mllp", ",", "particle"}], "]"}], ",", 
            "\[IndentingNewLine]", 
            RowBox[{
             RowBox[{
-             RowBox[{"decayProb", "[", 
-              RowBox[{"particle", ",", "t_"}], "]"}], "=", 
+             RowBox[{"{", 
+              RowBox[{
+               RowBox[{"probDec", "[", 
+                RowBox[{"particle", ",", "t_"}], "]"}], ",", 
+               RowBox[{"probAnn", "[", 
+                RowBox[{"particle", ",", "t_"}], "]"}], ",", 
+               RowBox[{"probNucl", "[", 
+                RowBox[{"particle", ",", "t_"}], "]"}]}], "}"}], "=", 
              RowBox[{
               RowBox[{
-               RowBox[{
+               RowBox[{"(", 
                 RowBox[{
-                 RowBox[{"(", 
+                 RowBox[{
                   RowBox[{
-                   RowBox[{
-                    RowBox[{"channels", "[", "particle", "]"}], "[", 
-                    RowBox[{"[", "1", "]"}], "]"}], "/", 
-                   RowBox[{"Plus", "@@", 
-                    RowBox[{"channels", "[", "particle", "]"}]}]}], ")"}], "/.",
-                  " ", 
+                   FractionBox[
+                    RowBox[{
+                    RowBox[{"channels", "[", 
+                    RowBox[{
+                    "particle", ",", "True", ",", "True", ",", "True"}], 
+                    "]"}], "[", 
+                    RowBox[{"[", "#", "]"}], "]"}], 
+                    RowBox[{
+                    RowBox[{"channels", "[", 
+                    RowBox[{
+                    "particle", ",", "True", ",", "True", ",", "True"}], 
+                    "]"}], "//", "Total"}]], "/.", " ", 
+                   RowBox[{"{", 
+                    RowBox[{"nB", "->", 
+                    RowBox[{"nBn\[Gamma]", "[", 
+                    RowBox[{"t", ",", "tfinSim"}], "]"}]}], "}"}]}], "/.", 
+                  " ", "solYnew"}], "/.", 
                  RowBox[{"{", 
                   RowBox[{
-                   RowBox[{"IfConversion", "->", "True"}], ",", 
-                   RowBox[{"IfPionConversion", "->", "True"}], ",", 
-                   RowBox[{"nB", "->", 
-                    RowBox[{"nBn\[Gamma]", "[", 
-                    RowBox[{"t", ",", "tfinSim"}], "]"}]}]}], "}"}]}], "/.", 
-                " ", "solY"}], "/.", " ", 
-               RowBox[{"T", "->", 
-                RowBox[{"(", 
-                 RowBox[{"T\[Gamma]sol", "[", "t", "]"}], ")"}]}]}], "/.", 
-              " ", "solUniverse"}]}], ";", "\[IndentingNewLine]", 
+                   RowBox[{"T", "->", 
+                    RowBox[{"T\[Gamma]solApprox", "[", "t", "]"}]}], ",", 
+                   RowBox[{
+                    RowBox[{"aRatio", "[", "t_", "]"}], ":>", 
+                    RowBox[{"aratiosolApprox", "[", "t", "]"}]}], ",", 
+                   RowBox[{
+                    RowBox[{"T\[Gamma]", "[", "t_", "]"}], ":>", 
+                    RowBox[{"T\[Gamma]solApprox", "[", "t", "]"}]}]}], 
+                  "}"}]}], 
+                RowBox[{"(*", 
+                 RowBox[{"/.", " ", "solUniverseApprox"}], "*)"}], ")"}], 
+               "&"}], "/@", 
+              RowBox[{"{", 
+               RowBox[{"1", ",", "2", ",", "3"}], "}"}]}]}], ";", 
+            "\[IndentingNewLine]", 
             RowBox[{
-             RowBox[{"decayProb", "[", 
-              RowBox[{"particle", ",", "t_"}], "]"}], "=", 
-             RowBox[{"If", "[", 
+             RowBox[{"{", 
               RowBox[{
-               RowBox[{"t", "<", 
-                RowBox[{"10.", "*", "\[Tau]llp"}]}], ",", 
-               RowBox[{"Evaluate", "[", 
-                RowBox[{"decayProb", "[", 
-                 RowBox[{"particle", ",", "t"}], "]"}], "]"}], ",", 
-               RowBox[{"Evaluate", "[", 
-                RowBox[{"decayProb", "[", 
-                 RowBox[{"particle", ",", 
-                  RowBox[{"10", "*", "\[Tau]llp"}]}], "]"}], "]"}]}], "]"}]}],
-             ";"}], "\[IndentingNewLine]", ",", "\[IndentingNewLine]", 
+               RowBox[{"probDec", "[", 
+                RowBox[{"particle", ",", "t_"}], "]"}], ",", 
+               RowBox[{"probAnn", "[", 
+                RowBox[{"particle", ",", "t_"}], "]"}], ",", 
+               RowBox[{"probNucl", "[", 
+                RowBox[{"particle", ",", "t_"}], "]"}]}], "}"}], "=", 
+             RowBox[{
+              RowBox[{
+               RowBox[{"If", "[", 
+                RowBox[{
+                 RowBox[{"t", "<", 
+                  RowBox[{"10.", "*", "\[Tau]llp"}]}], ",", 
+                 RowBox[{"Evaluate", "[", 
+                  RowBox[{"#", "[", 
+                   RowBox[{"particle", ",", "t"}], "]"}], "]"}], ",", 
+                 RowBox[{"Evaluate", "[", 
+                  RowBox[{"#", "[", 
+                   RowBox[{"particle", ",", 
+                    RowBox[{"10", "*", "\[Tau]llp"}]}], "]"}], "]"}]}], "]"}],
+                "&"}], "/@", 
+              RowBox[{"{", 
+               RowBox[{"probDec", ",", "probAnn", ",", "probNucl"}], 
+               "}"}]}]}], ";"}], "\[IndentingNewLine]", ",", 
+           "\[IndentingNewLine]", 
            RowBox[{
-            RowBox[{"decayProb", "[", 
-             RowBox[{"particle", ",", "t_"}], "]"}], "=", "0."}]}], 
-          "\[IndentingNewLine]", "]"}]}], "\[IndentingNewLine]", "]"}], ",", 
+            RowBox[{
+             RowBox[{"probDec", "[", 
+              RowBox[{"particle", ",", "t_"}], "]"}], "=", "0."}], ";", 
+            "\[IndentingNewLine]", 
+            RowBox[{
+             RowBox[{"probNucl", "[", 
+              RowBox[{"particle", ",", "t_"}], "]"}], "=", "0."}], ";", 
+            "\[IndentingNewLine]", 
+            RowBox[{
+             RowBox[{"probAnn", "[", 
+              RowBox[{"particle", ",", "t_"}], "]"}], "=", "0."}], ";"}]}], 
+          "\[IndentingNewLine]", 
+          RowBox[{"(*", "\[IndentingNewLine]", 
+           RowBox[{
+            RowBox[{
+             RowBox[{"Ysource", "[", 
+              RowBox[{"particle", ",", "t_"}], "]"}], "=", "0."}], ";", 
+            "\[IndentingNewLine]", 
+            RowBox[{
+             RowBox[{"YieldPerLLP", "[", 
+              RowBox[{"particle", ",", "t_"}], "]"}], "=", "0."}], ";"}], 
+           "\[IndentingNewLine]", "*)"}], "\[IndentingNewLine]", "]"}]}], 
+        "\[IndentingNewLine]", "]"}], ",", 
        RowBox[{"{", 
-        RowBox[{"particle", ",", "particles"}], "}"}]}], "]"}], ";", 
-     "\[IndentingNewLine]", 
+        RowBox[{"particle", ",", 
+         RowBox[{"{", 
+          RowBox[{
+          "\"\<\!\(\*SuperscriptBox[\(\[Mu]\), \(+\)]\)\>\"", ",", 
+           "\"\<\!\(\*SuperscriptBox[\(\[Mu]\), \(-\)]\)\>\"", ",", 
+           "\"\<\!\(\*SuperscriptBox[\(\[Pi]\), \(+\)]\)\>\"", ",", 
+           "\"\<\!\(\*SuperscriptBox[\(\[Pi]\), \(-\)]\)\>\"", ",", 
+           "\"\<\!\(\*SuperscriptBox[\(K\), \(+\)]\)\>\"", ",", 
+           "\"\<\!\(\*SuperscriptBox[\(K\), \(-\)]\)\>\"", ",", 
+           "\"\<\!\(\*SubscriptBox[\(K\), \(L\)]\)\>\""}], "}"}]}], "}"}]}], 
+      "]"}], ";", "\[IndentingNewLine]", 
      RowBox[{"tpoints", "=", 
       RowBox[{"tpointsBlock", "[", 
        RowBox[{"npoints", ",", "t0", ",", "tEnd", ",", "T\[Gamma]sol"}], 
@@ -2275,83 +2295,23 @@ Cell[BoxData[{
               RowBox[{"T\[Gamma]sol", "[", "t", "]"}]}], ",", 
              RowBox[{"Table", "[", 
               RowBox[{
-               RowBox[{"decayProb", "[", 
+               RowBox[{"probDec", "[", 
                 RowBox[{"particle", ",", "t"}], "]"}], ",", 
                RowBox[{"{", 
-                RowBox[{"particle", ",", "particles"}], "}"}]}], "]"}]}], 
-            "}"}], "]"}], ",", 
+                RowBox[{"particle", ",", 
+                 RowBox[{"{", 
+                  RowBox[{
+                  "\"\<\!\(\*SuperscriptBox[\(\[Mu]\), \(+\)]\)\>\"", ",", 
+                   "\"\<\!\(\*SuperscriptBox[\(\[Mu]\), \(-\)]\)\>\"", ",", 
+                   "\"\<\!\(\*SuperscriptBox[\(\[Pi]\), \(+\)]\)\>\"", ",", 
+                   "\"\<\!\(\*SuperscriptBox[\(\[Pi]\), \(-\)]\)\>\"", ",", 
+                   "\"\<\!\(\*SuperscriptBox[\(K\), \(+\)]\)\>\"", ",", 
+                   "\"\<\!\(\*SuperscriptBox[\(K\), \(-\)]\)\>\"", ",", 
+                   "\"\<\!\(\*SubscriptBox[\(K\), \(L\)]\)\>\""}], "}"}]}], 
+                "}"}]}], "]"}]}], "}"}], "]"}], ",", 
           RowBox[{"{", 
            RowBox[{"t", ",", "tpoints"}], "}"}]}], "]"}]}], "}"}], "//", 
-      "N"}]}]}], "\[IndentingNewLine]", 
-   RowBox[{"(*", 
-    RowBox[{"{", 
-     RowBox[{
-      RowBox[{"{", 
-       RowBox[{
-       "mllp", ",", "\[Tau]llp", ",", "nLLPinput", ",", "Neff", ",", "r1val", 
-        ",", "r2val", ",", "r3val", ",", "nto\[Mu]", ",", "nto\[Pi]", ",", 
-        "ntoKp", ",", "ntoKL", ",", 
-        RowBox[{"calcBaseInjectedEnergy", "[", 
-         RowBox[{"LLPsel", ",", "mllp"}], "]"}]}], "}"}], ",", 
-      RowBox[{"(*", 
-       RowBox[{
-        RowBox[{
-         RowBox[{"Table", "[", 
-          RowBox[{
-           RowBox[{"Flatten", "[", 
-            RowBox[{"{", 
-             RowBox[{"t", ",", 
-              RowBox[{
-               SuperscriptBox["10", "3"], 
-               RowBox[{"T\[Gamma]sol", "[", "t", "]"}]}], ",", 
-              RowBox[{"Table", "[", 
-               RowBox[{
-                RowBox[{"decayProb", "[", 
-                 RowBox[{"particle", ",", "t"}], "]"}], ",", 
-                RowBox[{"{", 
-                 RowBox[{"particle", ",", "particles"}], "}"}]}], "]"}]}], 
-             "}"}], "]"}], ",", 
-           RowBox[{"{", 
-            RowBox[{"t", ",", "tpoints"}], "}"}]}], "]"}], "//", "N"}], ",", 
-        "solY"}], "*)"}], 
-      RowBox[{
-       RowBox[{"\[Rho]\[Nu]Total", "[", 
-        RowBox[{
-         RowBox[{"T\[Nu]e", "[", "t", "]"}], ",", 
-         RowBox[{"T\[Nu]\[Mu]", "[", "t", "]"}], ",", 
-         RowBox[{"T\[Nu]\[Tau]", "[", "t", "]"}]}], "]"}], "/.", " ", 
-       "solUniverse"}], ",", 
-      RowBox[{"aratiosol", "[", "t", "]"}], ",", 
-      RowBox[{"Table", "[", 
-       RowBox[{
-        RowBox[{"{", 
-         RowBox[{"particle", ",", 
-          RowBox[{
-           RowBox[{
-            RowBox[{"nSymbol", "[", "particle", "]"}], "[", "t", "]"}], 
-           RowBox[{"(*", 
-            RowBox[{"*", 
-             RowBox[{"decayProb", "[", 
-              RowBox[{"particle", ",", "t"}], "]"}]}], "*)"}], "/.", "solY"}],
-           ",", 
-          RowBox[{
-           RowBox[{"decayProb", "[", 
-            RowBox[{"particle", ",", "t"}], "]"}], "/.", "solY"}]}], "}"}], 
-        ",", 
-        RowBox[{"{", 
-         RowBox[{"particle", ",", "Yparticleslist"}], "}"}]}], "]"}], ",", 
-      FractionBox[
-       RowBox[{"nLLPiniVal", "*", 
-        RowBox[{"Exp", "[", 
-         RowBox[{
-          RowBox[{"-", "t"}], "/", "\[Tau]llp"}], "]"}], "*", 
-        RowBox[{"NtoY", "[", 
-         RowBox[{
-         "LLPsel", ",", "\"\<\!\(\*SuperscriptBox[\(K\), \(+\)]\)\>\"", ",", 
-          "mllp"}], "]"}]}], 
-       SuperscriptBox[
-        RowBox[{"aratiosol", "[", "t", "]"}], "3"]]}], "}"}], "*)"}], 
-   "\[IndentingNewLine]", "]"}]}]}], "Input",
+      "N"}]}]}], "\[IndentingNewLine]", "]"}]}]}], "Input",
  CellChangeTimes->{{3.932399049921728*^9, 3.932399065536069*^9}, {
    3.932400544724181*^9, 3.932400547772519*^9}, {3.9324026891077294`*^9, 
    3.932402700909767*^9}, 3.932403339530456*^9, {3.932403667517183*^9, 
@@ -2434,224 +2394,922 @@ Cell[BoxData[{
    3.9393568781944466`*^9}, {3.939357402620947*^9, 3.939357402998024*^9}, {
    3.9393575086200256`*^9, 3.939357511967699*^9}, {3.9393584616510696`*^9, 
    3.9393585461762524`*^9}, {3.93937574027544*^9, 3.9393757455681973`*^9}, 
-   3.9411203196371574`*^9},
- CellLabel->
-  "In[337]:=",ExpressionUUID->"bf322a42-8908-43c3-b4b6-a9ea6dc0bcd6"],
+   3.9411207998628464`*^9, {3.9454059997619553`*^9, 3.945406000631233*^9}, {
+   3.945406049716156*^9, 3.945406051081545*^9}, {3.94540628974798*^9, 
+   3.94540629868622*^9}, {3.9454063701739807`*^9, 3.9454064441058044`*^9}, 
+   3.9454065829711933`*^9, 3.9454066345535793`*^9, {3.945406727593733*^9, 
+   3.945406731176956*^9}, {3.945406831809664*^9, 3.94540693941852*^9}, {
+   3.9454087863292885`*^9, 3.9454087868404026`*^9}, {3.9454151892716064`*^9, 
+   3.9454151924401913`*^9}, {3.9454153057498226`*^9, 
+   3.9454153111190987`*^9}, {3.9454153818558407`*^9, 
+   3.9454153844837055`*^9}, {3.945422355217472*^9, 3.945422367007515*^9}, {
+   3.945422450582327*^9, 3.945422454482916*^9}, {3.9454227270585938`*^9, 
+   3.9454227336793575`*^9}, {3.9454227866083145`*^9, 3.945422795795143*^9}, {
+   3.945422963138157*^9, 3.9454229660115986`*^9}, {3.945424028520012*^9, 
+   3.945424039230942*^9}, {3.945937900798294*^9, 3.9459379027924767`*^9}, {
+   3.945938162648571*^9, 3.945938174733259*^9}, {3.9459386025923576`*^9, 
+   3.9459386195783367`*^9}, {3.94593880722258*^9, 3.9459388136994915`*^9}, {
+   3.9459389216051846`*^9, 3.9459389276161156`*^9}, {3.94593900189962*^9, 
+   3.9459390064418564`*^9}, {3.9459395827220993`*^9, 
+   3.9459395846404705`*^9}, {3.9459399771487713`*^9, 
+   3.9459399812334557`*^9}, {3.946367234950054*^9, 3.9463672384693584`*^9}, {
+   3.9463674285511208`*^9, 3.9463674376698265`*^9}, {3.9463674694482727`*^9, 
+   3.946367469575369*^9}, {3.9463676056804104`*^9, 3.946367626455971*^9}, {
+   3.946367704664854*^9, 3.946367707149273*^9}},
+ CellLabel->"In[9]:=",ExpressionUUID->"bf322a42-8908-43c3-b4b6-a9ea6dc0bcd6"],
 
-Cell[BoxData[
- RowBox[{"(*", 
-  RowBox[{
-   RowBox[{"lifetimetest", "=", "40"}], ";", "\[IndentingNewLine]", 
-   RowBox[{"masstest", "=", "0.23"}], ";", "\[IndentingNewLine]", 
-   RowBox[{"out", "=", 
-    RowBox[{"mergedFunction", "[", 
-     RowBox[{"\"\<Scalar\>\"", ",", "masstest", ",", "lifetimetest", ",", 
-      RowBox[{"{", 
-       RowBox[{
-       "\"\<\!\(\*SuperscriptBox[\(\[Mu]\), \(+\)]\)\>\"", ",", 
-        "\"\<\!\(\*SuperscriptBox[\(\[Pi]\), \(+\)]\)\>\""}], "}"}]}], 
-     "]"}]}], ";", "\[IndentingNewLine]", 
-   FractionBox[
-    RowBox[{
-     RowBox[{"calcBaseInjectedEnergy", "[", 
-      RowBox[{"LLPsel", ",", "masstest"}], "]"}], "-", 
-     RowBox[{
-      RowBox[{"out", "[", 
-       RowBox[{"[", "1", "]"}], "]"}], "[", 
-      RowBox[{"[", "6", "]"}], "]"}]}], 
-    RowBox[{"calcBaseInjectedEnergy", "[", 
-     RowBox[{"LLPsel", ",", "masstest"}], "]"}]]}], "*)"}]], "Input",
- CellChangeTimes->{{3.933412693085471*^9, 3.9334127117631426`*^9}, {
-  3.93341275331277*^9, 3.933412776651782*^9}, {3.9334128488201084`*^9, 
-  3.933412871637126*^9}, {3.933412918334484*^9, 3.9334129282829676`*^9}, {
-  3.9334130616051483`*^9, 3.933413163556127*^9}, {3.9334132998883467`*^9, 
-  3.9334133011565714`*^9}, {3.9335265676977615`*^9, 3.9335266040218644`*^9}, {
-  3.9336114981599827`*^9, 3.933611501585224*^9}, {3.933614746422615*^9, 
-  3.933614748243039*^9}, {3.9336150649430475`*^9, 3.9336150671401806`*^9}, {
-  3.9336151150588317`*^9, 3.933615132529916*^9}, {3.93361615706894*^9, 
-  3.933616159122074*^9}, {3.9336162464706197`*^9, 3.9336162554067817`*^9}, {
-  3.933616297539539*^9, 3.933616299687552*^9}, {3.933864641968734*^9, 
-  3.9338646860346403`*^9}},
- CellLabel->"In[12]:=",ExpressionUUID->"543f11e7-5937-4335-a5b8-68aa08a03ddb"],
+Cell[CellGroupData[{
+
+Cell["1.", "Subsubsection",
+ CellChangeTimes->{{3.9411202556720543`*^9, 
+  3.941120255744917*^9}},ExpressionUUID->"9638e941-547c-4142-b05a-\
+90266845e3bb"],
 
 Cell[BoxData[
  RowBox[{
   RowBox[{"(*", 
    RowBox[{
+    RowBox[{"Similar", " ", "function"}], ",", " ", 
+    RowBox[{"but", " ", "with", " ", "extended", " ", "functionality"}]}], 
+   "*)"}], "\[IndentingNewLine]", 
+  RowBox[{
+   RowBox[{"mergedFunction1", "[", 
     RowBox[{
-     RowBox[{"BlockTempNeff", "[", 
-      RowBox[{"LLPsel_", ",", "mllp_", ",", "\[Tau]llp_"}], "]"}], ":=", 
-     RowBox[{
+    "LLPsel_", ",", "mllp_", ",", "\[Tau]llp_", ",", "DecayOnly_", ",", 
+     "Ifdecays_", ",", "Ifconversion_", ",", "Ifannihilation_", ",", 
+     "Nsteps_"}], "]"}], ":=", 
+   RowBox[{"Block", "[", 
+    RowBox[{
+     RowBox[{"{", 
       RowBox[{
-       RowBox[{"Block", "[", 
+       RowBox[{"tempStart", "=", 
         RowBox[{
-         RowBox[{"{", "}"}], ",", "\[IndentingNewLine]", 
-         RowBox[{
-          RowBox[{"nLLPiniVal", "=", 
-           RowBox[{"nLLPini", "[", 
-            RowBox[{"LLPsel", ",", "mllp", ",", "\[Tau]llp"}], "]"}]}], ";", 
-          "\[IndentingNewLine]", 
-          RowBox[{"(*", 
-           RowBox[{
-           "Numbers", " ", "of", " ", "Ys", " ", "of", " ", "the", " ", 
-            "given", " ", "charge", " ", "per", " ", 
-            RowBox[{"X", "'"}], "s", " ", "decay"}], "*)"}], 
-          "\[IndentingNewLine]", 
+         SuperscriptBox["10", 
+          RowBox[{"-", "3."}]], "*", "5.1101533"}]}], ",", 
+       RowBox[{"lifetimeFactor", "=", "10"}], ",", 
+       RowBox[{"npoints", "=", "500"}], ",", 
+       RowBox[{"tfinSim", "=", 
+        RowBox[{"N", "[", "tmaxsol", "]"}]}], ",", "injE", ",", "injE\[Nu]", 
+       ",", "Neff", ",", "r1val", ",", "r2val", ",", "r3val", ",", "solY", 
+       ",", "solUniverse", ",", "pars", ",", "numberDens", ",", 
+       "basicElecInj", ",", "basicMuInj", ",", "basicNeffSol", ",", 
+       "NeffBase", ",", "Ttdyn", ",", "nBttest", ",", "nLLPiniVal", ",", "t0",
+        ",", "tEnd", ",", "\[Xi]DirectElec", ",", "\[Xi]Direct\[Mu]", ",", 
+       "\[Xi]Direct\[Tau]", ",", "T\[Gamma]sol", ",", "T\[Gamma]fin", ",", 
+       "nLLPinput", ",", "aratiosol", ",", "ntoKp", ",", "ntoKL", ",", 
+       "nto\[Mu]", ",", "nto\[Pi]", ",", "tIniEM", ",", 
+       "solutionsThermodynamics", ",", "solUniverseApprox", ",", "probDec", 
+       ",", "\[Rho]\[Nu]InjSol", ",", "\[Rho]InjSol", ",", "placeholder", ",",
+        "tpoints", ",", "nllpscaling", ",", "probNucl", ",", "Ysource", ",", 
+       "probAnn", ",", "YieldPerLLP", ",", "T\[Gamma]solApprox", ",", 
+       "aratiosolApprox", ",", "condlist", ",", "channelsmodified", ",", 
+       "trange", ",", "solYnew", ",", "descr", ",", "func"}], "}"}], ",", 
+     "\[IndentingNewLine]", 
+     RowBox[{
+      RowBox[{"nLLPiniVal", "=", 
+       RowBox[{"nLLPini", "[", 
+        RowBox[{"LLPsel", ",", "mllp", ",", "\[Tau]llp"}], "]"}]}], ";", 
+      "\[IndentingNewLine]", 
+      RowBox[{"(*", 
+       RowBox[{
+       "Numbers", " ", "of", " ", "Ys", " ", "of", " ", "the", " ", "given", 
+        " ", "charge", " ", "per", " ", 
+        RowBox[{"X", "'"}], "s", " ", "decay"}], "*)"}], 
+      "\[IndentingNewLine]", 
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{"ntoKp", ",", "ntoKL", ",", "nto\[Pi]", ",", "nto\[Mu]"}], 
+        "}"}], "=", 
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"NtoY", "[", 
           RowBox[{
-           RowBox[{"{", 
-            RowBox[{"ntoKp", ",", "ntoKL", ",", "nto\[Pi]", ",", "nto\[Mu]"}],
-             "}"}], "=", 
-           RowBox[{"{", 
-            RowBox[{
-             RowBox[{"NtoY", "[", 
-              RowBox[{
-              "LLPsel", ",", "\"\<\!\(\*SuperscriptBox[\(K\), \(+\)]\)\>\"", 
-               ",", "mllp"}], "]"}], ",", 
-             RowBox[{"NtoY", "[", 
-              RowBox[{
-              "LLPsel", ",", "\"\<\!\(\*SubscriptBox[\(K\), \(L\)]\)\>\"", 
-               ",", "mllp"}], "]"}], ",", 
-             RowBox[{"NtoY", "[", 
-              RowBox[{
-              "LLPsel", ",", 
-               "\"\<\!\(\*SuperscriptBox[\(\[Pi]\), \(+\)]\)\>\"", ",", 
-               "mllp"}], "]"}], ",", 
-             RowBox[{"NtoY", "[", 
-              RowBox[{
-              "LLPsel", ",", 
-               "\"\<\!\(\*SuperscriptBox[\(\[Mu]\), \(+\)]\)\>\"", ",", 
-               "mllp"}], "]"}]}], "}"}]}], ";", "\[IndentingNewLine]", 
+          "LLPsel", ",", "\"\<\!\(\*SuperscriptBox[\(K\), \(+\)]\)\>\"", ",", 
+           "mllp"}], "]"}], ",", 
+         RowBox[{"NtoY", "[", 
+          RowBox[{
+          "LLPsel", ",", "\"\<\!\(\*SubscriptBox[\(K\), \(L\)]\)\>\"", ",", 
+           "mllp"}], "]"}], ",", 
+         RowBox[{"NtoY", "[", 
+          RowBox[{
+          "LLPsel", ",", "\"\<\!\(\*SuperscriptBox[\(\[Pi]\), \(+\)]\)\>\"", 
+           ",", "mllp"}], "]"}], ",", 
+         RowBox[{"NtoY", "[", 
+          RowBox[{
+          "LLPsel", ",", "\"\<\!\(\*SuperscriptBox[\(\[Mu]\), \(+\)]\)\>\"", 
+           ",", "mllp"}], "]"}]}], "}"}]}], ";", "\[IndentingNewLine]", 
+      RowBox[{"If", "[", 
+       RowBox[{
+        RowBox[{
+         RowBox[{"calcBaseInjectedEnergy", "[", 
+          RowBox[{"LLPsel", ",", "mllp"}], "]"}], ">", "0"}], ",", 
+        "\[IndentingNewLine]", 
+        RowBox[{"(*", 
+         RowBox[{
+          RowBox[{
+          "Computing", " ", "the", " ", "evolution", " ", "of", " ", 
+           "secondary", " ", "particles"}], " ", "-", " ", "solY"}], "*)"}], 
+        "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{
+          RowBox[{"{", 
+           RowBox[{"(*", 
+            RowBox[{"solutionsThermodynamics", ","}], "*)"}], 
+           RowBox[{"solUniverseApprox", ",", "tIniEM", ",", "solYnew"}], 
+           "}"}], "=", 
           RowBox[{"If", "[", 
            RowBox[{
-            RowBox[{
-             RowBox[{"calcBaseInjectedEnergy", "[", 
-              RowBox[{"LLPsel", ",", "mllp"}], "]"}], ">", "0"}], ",", 
+            RowBox[{"!", "DecayOnly"}], ",", "\[IndentingNewLine]", 
+            RowBox[{"BlockFullSystemNumberDens", "[", 
+             RowBox[{
+             "mllp", ",", "\[Tau]llp", ",", "nLLPiniVal", ",", "1", ",", 
+              "ntoKp", ",", "ntoKL", ",", "nto\[Pi]", ",", "nto\[Mu]", ",", 
+              "Ifdecays", ",", "Ifconversion", ",", "True", ",", 
+              "Ifannihilation", ",", "Nsteps"}], "]"}], ",", 
             "\[IndentingNewLine]", 
-            RowBox[{"(*", 
+            RowBox[{"BlockFullSystemNumberDens", "[", 
              RowBox[{
-              RowBox[{
-              "Computing", " ", "the", " ", "evolution", " ", "of", " ", 
-               "secondary", " ", "particles"}], " ", "-", " ", "solY"}], 
-             "*)"}], "\[IndentingNewLine]", 
+             "mllp", ",", "\[Tau]llp", ",", "nLLPiniVal", ",", "1", ",", 
+              "ntoKp", ",", "ntoKL", ",", "nto\[Pi]", ",", "nto\[Mu]", ",", 
+              "True", ",", "False", ",", "False", ",", "False", ",", 
+              "Nsteps"}], "]"}]}], "\[IndentingNewLine]", "]"}]}], ";"}], 
+        "\[IndentingNewLine]", 
+        RowBox[{"(*", 
+         RowBox[{"solUniverseApprox", "=", 
+          RowBox[{"Table", "[", 
+           RowBox[{
             RowBox[{
              RowBox[{
-              RowBox[{"{", 
-               RowBox[{"(*", 
-                RowBox[{
-                "solutionsThermodynamics", ",", "solUniverseApprox", ","}], 
-                "*)"}], 
-               RowBox[{"tIniEM", ",", "solY"}], "}"}], "=", 
-              RowBox[{"BlockFullSystemNumberDens", "[", 
-               RowBox[{
-               "mllp", ",", "\[Tau]llp", ",", "nLLPiniVal", ",", "1", ",", 
-                "ntoKp", ",", "ntoKL", ",", "nto\[Pi]", ",", "nto\[Mu]", ",", 
-                "True", ",", "True", ",", "True", ",", "True"}], "]"}]}], 
-             ";"}], "\[IndentingNewLine]", 
-            RowBox[{"(*", 
+              RowBox[{
+               RowBox[{"solUniverseApprox", "[", 
+                RowBox[{"[", "i", "]"}], "]"}], "[", 
+               RowBox[{"[", "1", "]"}], "]"}], "[", 
+              RowBox[{"[", "0", "]"}], "]"}], "->", 
              RowBox[{
               RowBox[{
-               RowBox[{"{", 
-                RowBox[{
-                 RowBox[{"nKpsol", "[", "t_", "]"}], ",", 
-                 RowBox[{"nKmsol", "[", "t_", "]"}], ",", 
-                 RowBox[{"nKLsol", "[", "t_", "]"}], ",", 
-                 RowBox[{"n\[Pi]psol", "[", "t_", "]"}], ",", 
-                 RowBox[{"n\[Pi]msol", "[", "t_", "]"}], ",", 
-                 RowBox[{"n\[Mu]psol", "[", "t_", "]"}], ",", 
-                 RowBox[{"n\[Mu]msol", "[", "t_", "]"}], ",", 
-                 RowBox[{"Xnsol", "[", "t_", "]"}]}], "}"}], "=", 
-               RowBox[{
-                RowBox[{
-                 RowBox[{"(", 
-                  RowBox[{
-                   RowBox[{"#", "[", "t", "]"}], "/.", "sol"}], ")"}], "&"}], 
-                "/@", 
-                RowBox[{"{", 
-                 RowBox[{
-                 "nKplus", ",", "nKminus", ",", "nKL", ",", "n\[Pi]plus", ",",
-                   "n\[Pi]minus", ",", "n\[Mu]plus", ",", "n\[Mu]minus", ",", 
-                  "Xn"}], "}"}]}]}], ";", "\[IndentingNewLine]", 
-              RowBox[{
-               RowBox[{"Xnsol", "[", "t_", "]"}], "=", 
-               RowBox[{"sc", "*", 
-                RowBox[{"Xnsol", "[", "t", "]"}]}]}], ";"}], "*)"}], 
-            "\[IndentingNewLine]", ",", "\[IndentingNewLine]", 
-            RowBox[{
-             RowBox[{
-              RowBox[{"{", 
-               RowBox[{"placeholder", ",", "tIniEM"}], "}"}], "=", 
-              RowBox[{"DynamicsTimeScaleFactorNumberDens", "[", 
-               RowBox[{
-               "mllp", ",", "\[Tau]llp", ",", "nLLPiniVal", ",", "1", ",", 
-                "1000"}], "]"}]}], ";"}]}], "\[IndentingNewLine]", "]"}], ";",
-           "\[IndentingNewLine]", 
+               RowBox[{"solUniverseApprox", "[", 
+                RowBox[{"[", "i", "]"}], "]"}], "[", 
+               RowBox[{"[", "2", "]"}], "]"}], "[", 
+              RowBox[{"[", "0", "]"}], "]"}]}], ",", 
+            RowBox[{"{", 
+             RowBox[{"i", ",", "1", ",", 
+              RowBox[{"Length", "[", "solUniverseApprox", "]"}], ",", "1"}], 
+             "}"}]}], "]"}]}], "*)"}], "\[IndentingNewLine]", 
+        RowBox[{"(*", 
+         RowBox[{
           RowBox[{
            RowBox[{"{", 
             RowBox[{
-            "solUniverse", ",", "\[Rho]\[Nu]InjSol", ",", "\[Rho]InjSol"}], 
-            "}"}], "=", 
-           RowBox[{"solveEvolutionCorrectedFull", "[", 
-            RowBox[{"LLPsel", ",", "mllp", ",", "\[Tau]llp", ",", 
-             RowBox[{"nLLPini", "[", 
-              RowBox[{"LLPsel", ",", "mllp", ",", "\[Tau]llp"}], "]"}], ",", 
-             "tIniEM", ",", 
-             SuperscriptBox["10", "3"], ",", "solY"}], "]"}]}], ";", 
-          "\[IndentingNewLine]", 
-          RowBox[{
-           RowBox[{"T\[Gamma]sol", "[", "t_", "]"}], "=", 
-           RowBox[{
-            RowBox[{"T\[Gamma]", "[", "t", "]"}], "/.", "solUniverse"}]}], 
-          ";", "\[IndentingNewLine]", 
-          RowBox[{"T\[Gamma]fin", "=", 
-           RowBox[{"T\[Gamma]sol", "[", "1000", "]"}]}], ";", 
-          "\[IndentingNewLine]", 
-          RowBox[{
-           RowBox[{"aratiosol", "[", "t_", "]"}], "=", 
-           RowBox[{
-            RowBox[{"aRatio", "[", "t", "]"}], "/.", "solUniverse"}]}], ";", 
-          "\[IndentingNewLine]", 
-          RowBox[{"(*", 
-           RowBox[{
-            SubscriptBox["N", "eff"], " ", "using", " ", "integrated", " ", 
-            "Boltzmann", " ", "approach"}], "*)"}], "\[IndentingNewLine]", 
-          RowBox[{"Neffv", "=", 
+             RowBox[{"nKpsol", "[", "t_", "]"}], ",", 
+             RowBox[{"nKmsol", "[", "t_", "]"}], ",", 
+             RowBox[{"nKLsol", "[", "t_", "]"}], ",", 
+             RowBox[{"n\[Pi]psol", "[", "t_", "]"}], ",", 
+             RowBox[{"n\[Pi]msol", "[", "t_", "]"}], ",", 
+             RowBox[{"n\[Mu]psol", "[", "t_", "]"}], ",", 
+             RowBox[{"n\[Mu]msol", "[", "t_", "]"}], ",", 
+             RowBox[{"Xnsol", "[", "t_", "]"}]}], "}"}], "=", 
            RowBox[{
             RowBox[{
-             RowBox[{"NeffT", "[", 
+             RowBox[{"(", 
               RowBox[{
-               RowBox[{"T\[Gamma]sol", "[", "t", "]"}], ",", 
+               RowBox[{"#", "[", "t", "]"}], "/.", "sol"}], ")"}], "&"}], "/@", 
+            RowBox[{"{", 
+             RowBox[{
+             "nKplus", ",", "nKminus", ",", "nKL", ",", "n\[Pi]plus", ",", 
+              "n\[Pi]minus", ",", "n\[Mu]plus", ",", "n\[Mu]minus", ",", 
+              "Xn"}], "}"}]}]}], ";", "\[IndentingNewLine]", 
+          RowBox[{
+           RowBox[{"Xnsol", "[", "t_", "]"}], "=", 
+           RowBox[{"sc", "*", 
+            RowBox[{"Xnsol", "[", "t", "]"}]}]}], ";"}], "*)"}], 
+        "\[IndentingNewLine]", ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{
+          RowBox[{"{", 
+           RowBox[{"placeholder", ",", "tIniEM"}], "}"}], "=", 
+          RowBox[{"DynamicsTimeScaleFactorNumberDens", "[", 
+           RowBox[{
+           "mllp", ",", "\[Tau]llp", ",", "nLLPiniVal", ",", "1", ",", 
+            "tfinSim"}], "]"}]}], ";"}]}], "\[IndentingNewLine]", "]"}], ";", 
+      "\[IndentingNewLine]", 
+      RowBox[{"(*", 
+       RowBox[{
+        RowBox[{
+        "Computing", " ", "the", " ", "evolution", " ", "of", " ", 
+         "neutrinos", " ", "and", " ", "EM", " ", "plasma", " ", "as", " ", 
+         "a", " ", "result", " ", "of", " ", "the", " ", "decays", " ", "of", 
+         " ", "scalars", " ", "and", " ", "dynamics", " ", "of", " ", 
+         "secondaries"}], " ", "-", "  ", 
+        RowBox[{"mesons", " ", "and", " ", "muons"}]}], "*)"}], 
+      "\[IndentingNewLine]", 
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{
+        "solUniverse", ",", "\[Rho]\[Nu]InjSol", ",", "\[Rho]InjSol"}], "}"}],
+        "=", 
+       RowBox[{"solveEvolutionCorrectedFull", "[", 
+        RowBox[{
+        "LLPsel", ",", "mllp", ",", "\[Tau]llp", ",", "nLLPiniVal", ",", 
+         "tIniEM", ",", "tfinSim", ",", "solYnew"}], "]"}]}], ";", 
+      "\[IndentingNewLine]", 
+      RowBox[{
+       RowBox[{"T\[Gamma]sol", "[", "t_", "]"}], "=", 
+       RowBox[{
+        RowBox[{"T\[Gamma]", "[", "t", "]"}], "/.", "solUniverse"}]}], ";", 
+      "\[IndentingNewLine]", 
+      RowBox[{
+       RowBox[{"T\[Gamma]solApprox", "[", "t_", "]"}], "=", 
+       RowBox[{
+        RowBox[{"T\[Gamma]", "[", "t", "]"}], "/.", "solUniverseApprox"}]}], 
+      ";", "\[IndentingNewLine]", 
+      RowBox[{"T\[Gamma]fin", "=", 
+       RowBox[{"T\[Gamma]sol", "[", "tfinSim", "]"}]}], ";", 
+      "\[IndentingNewLine]", 
+      RowBox[{
+       RowBox[{"aratiosol", "[", "t_", "]"}], "=", 
+       RowBox[{
+        RowBox[{"aRatio", "[", "t", "]"}], "/.", "solUniverse"}]}], ";", 
+      "\[IndentingNewLine]", 
+      RowBox[{
+       RowBox[{"aratiosolApprox", "[", "t_", "]"}], "=", 
+       RowBox[{
+        RowBox[{"aRatio", "[", "t", "]"}], "/.", "solUniverseApprox"}]}], ";",
+       "\[IndentingNewLine]", 
+      RowBox[{"(*", 
+       RowBox[{
+        SubscriptBox["N", "eff"], " ", "using", " ", "integrated", " ", 
+        "Boltzmann", " ", "approach"}], "*)"}], "\[IndentingNewLine]", 
+      RowBox[{"Neff", "=", 
+       RowBox[{
+        RowBox[{
+         RowBox[{"NeffT", "[", 
+          RowBox[{
+           RowBox[{"T\[Gamma]sol", "[", "t", "]"}], ",", 
+           RowBox[{"T\[Nu]e", "[", "t", "]"}], ",", 
+           RowBox[{"T\[Nu]\[Mu]", "[", "t", "]"}], ",", 
+           RowBox[{"T\[Nu]\[Tau]", "[", "t", "]"}]}], "]"}], "/.", " ", 
+         "solUniverse"}], "/.", " ", 
+        RowBox[{"{", 
+         RowBox[{"t", "->", "tfinSim"}], "}"}]}]}], ";", 
+      "\[IndentingNewLine]", 
+      RowBox[{"(*", 
+       SubscriptBox["r", 
+        RowBox[{"1", "-", "3"}]], "*)"}], "\[IndentingNewLine]", 
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{"r1val", ",", "r2val", ",", "r3val"}], "}"}], "=", 
+       RowBox[{
+        RowBox[{
+         RowBox[{"{", 
+          RowBox[{
+           FractionBox["\[Rho]InjSol", 
+            RowBox[{
+             RowBox[{"\[Rho]\[Nu]Total", "[", 
+              RowBox[{
                RowBox[{"T\[Nu]e", "[", "t", "]"}], ",", 
                RowBox[{"T\[Nu]\[Mu]", "[", "t", "]"}], ",", 
-               RowBox[{"T\[Nu]\[Tau]", "[", "t", "]"}]}], "]"}], "/.", " ", 
-             "solUniverse"}], "/.", " ", 
-            RowBox[{"{", 
-             RowBox[{"t", "->", "1000"}], "}"}]}]}], ";", 
-          "\[IndentingNewLine]", "Neffv"}]}], "\[IndentingNewLine]", "]"}], 
-       "\[IndentingNewLine]", "datta"}], "=", 
+               RowBox[{"T\[Nu]\[Tau]", "[", "t", "]"}]}], "]"}], "+", 
+             RowBox[{"\[Rho]\[Gamma]", "[", "T\[Gamma]fin", "]"}], "+", 
+             RowBox[{"\[Rho]e", "[", "T\[Gamma]fin", "]"}]}]], ",", 
+           FractionBox["\[Rho]\[Nu]InjSol", "\[Rho]InjSol"], ",", 
+           FractionBox["\[Rho]\[Nu]InjSol", 
+            RowBox[{"\[Rho]\[Nu]Total", "[", 
+             RowBox[{
+              RowBox[{"T\[Nu]e", "[", "t", "]"}], ",", 
+              RowBox[{"T\[Nu]\[Mu]", "[", "t", "]"}], ",", 
+              RowBox[{"T\[Nu]\[Tau]", "[", "t", "]"}]}], "]"}]]}], "}"}], "/.",
+          " ", "solUniverse"}], "/.", " ", 
+        RowBox[{"t", "->", "tfinSim"}]}]}], ";", "\[IndentingNewLine]", 
+      RowBox[{"(*", 
+       RowBox[{
+        RowBox[{"Starting", " ", "time", " ", 
+         SubscriptBox["t", "0"], " ", "of", " ", 
+         RowBox[{"Kensuke", "'"}], "s", " ", 
+         RowBox[{"code", ".", " ", "Corresponds"}], " ", "to", " ", 
+         "starting", " ", "temperature", " ", "T"}], " ", "=", " ", 
+        RowBox[{"5.1101533", " ", "MeV"}]}], "*)"}], "\[IndentingNewLine]", 
+      RowBox[{"t0", "=", 
+       RowBox[{
+        RowBox[{"InverseFunction", "[", 
+         RowBox[{"T\[Gamma]", "/.", " ", "solUniverse"}], "]"}], "[", 
+        "tempStart", "]"}]}], ";", "\[IndentingNewLine]", 
+      RowBox[{"If", "[", 
+       RowBox[{
+        RowBox[{"t0", "<", "tIniEM"}], ",", 
+        RowBox[{"t0", "=", 
+         FractionBox[
+          RowBox[{"(", 
+           RowBox[{
+            RowBox[{
+             RowBox[{"InverseFunction", "[", 
+              RowBox[{"T\[Gamma]", "/.", " ", "solUniverse"}], "]"}], "[", 
+             RowBox[{"1.003", "tempStart"}], "]"}], "+", 
+            RowBox[{
+             RowBox[{"InverseFunction", "[", 
+              RowBox[{"T\[Gamma]", "/.", " ", "solUniverse"}], "]"}], "[", 
+             RowBox[{"0.997", "tempStart"}], "]"}]}], ")"}], "2"]}]}], "]"}], 
+      ";", "\[IndentingNewLine]", 
+      RowBox[{"(*", 
+       RowBox[{
+        RowBox[{"The", " ", "value", " ", "of", " ", 
+         SubscriptBox["n", "LLP"], " ", "at", " ", "t"}], " ", "=", " ", 
+        SubscriptBox["t", "0"]}], "*)"}], "\[IndentingNewLine]", 
+      RowBox[{"nLLPinput", "=", 
+       FractionBox[
+        RowBox[{"\[Rho]LLPscaling", "[", 
+         RowBox[{"mllp", ",", "nLLPiniVal", ",", "\[Tau]llp", ",", 
+          RowBox[{"aratiosol", "[", "t0", "]"}], ",", "t0", ",", "tIniEM"}], 
+         "]"}], "mllp"]}], ";", "\[IndentingNewLine]", 
+      RowBox[{"(*", 
+       RowBox[{
+       "___", "___", "___", "___", "___", "___", "___", "___", "___", "__"}], 
+       "*)"}], "\[IndentingNewLine]", 
+      RowBox[{"(*", 
+       RowBox[{"Compute", " ", "decay", " ", "probabilities"}], "*)"}], 
+      "\[IndentingNewLine]", 
+      RowBox[{"(*", 
+       RowBox[{
+       "___", "___", "___", "___", "___", "___", "___", "___", "___", "__"}], 
+       "*)"}], "\[IndentingNewLine]", 
+      RowBox[{"tEnd", "=", 
+       RowBox[{"t0", "+", 
+        RowBox[{"\[Tau]llp", "*", "lifetimeFactor"}]}]}], ";", 
+      "\[IndentingNewLine]", 
       RowBox[{
+       RowBox[{"nllpscaling", "[", "t_", "]"}], "=", 
+       FractionBox[
+        RowBox[{"nLLPiniVal", "*", 
+         RowBox[{"Exp", "[", 
+          RowBox[{
+           RowBox[{"-", "t"}], "/", "\[Tau]llp"}], "]"}]}], 
+        SuperscriptBox[
+         RowBox[{"aratiosolApprox", "[", "t", "]"}], "3"]]}], ";", 
+      "\[IndentingNewLine]", 
+      RowBox[{"(*", 
+       RowBox[{
+        RowBox[{"Defining", " ", "probabilities", " ", "to", " ", "decay"}], 
+        ",", " ", "annihilate", ",", " ", 
+        RowBox[{"and", " ", "interact", " ", "with", " ", "nucleons"}]}], 
+       "*)"}], "\[IndentingNewLine]", 
+      RowBox[{"Do", "[", "\[IndentingNewLine]", 
+       RowBox[{
+        RowBox[{"If", "[", 
+         RowBox[{"DecayOnly", ",", "\[IndentingNewLine]", 
+          RowBox[{
+           RowBox[{
+            RowBox[{"probDec", "[", 
+             RowBox[{"particle", ",", "t_"}], "]"}], "=", "1."}], ";", 
+           "\[IndentingNewLine]", 
+           RowBox[{
+            RowBox[{"probNucl", "[", 
+             RowBox[{"particle", ",", "t_"}], "]"}], "=", "0."}], ";", 
+           "\[IndentingNewLine]", 
+           RowBox[{
+            RowBox[{"probAnn", "[", 
+             RowBox[{"particle", ",", "t_"}], "]"}], "=", "0."}], ";"}], 
+          "\[IndentingNewLine]", ",", "\[IndentingNewLine]", 
+          RowBox[{"If", "[", 
+           RowBox[{
+            RowBox[{"ProdProbCheckerLLP", "[", 
+             RowBox[{"LLPsel", ",", "mllp", ",", "particle"}], "]"}], ",", 
+            "\[IndentingNewLine]", 
+            RowBox[{
+             RowBox[{
+              RowBox[{"{", 
+               RowBox[{
+                RowBox[{"probDec", "[", 
+                 RowBox[{"particle", ",", "t_"}], "]"}], ",", 
+                RowBox[{"probAnn", "[", 
+                 RowBox[{"particle", ",", "t_"}], "]"}], ",", 
+                RowBox[{"probNucl", "[", 
+                 RowBox[{"particle", ",", "t_"}], "]"}]}], "}"}], "=", 
+              RowBox[{
+               RowBox[{
+                RowBox[{"(", 
+                 RowBox[{
+                  RowBox[{
+                   RowBox[{
+                    FractionBox[
+                    RowBox[{
+                    RowBox[{"channels", "[", 
+                    RowBox[{
+                    "particle", ",", "Ifconversion", ",", "Ifannihilation", 
+                    ",", "Ifdecays"}], "]"}], "[", 
+                    RowBox[{"[", "#", "]"}], "]"}], 
+                    RowBox[{
+                    RowBox[{"channels", "[", 
+                    RowBox[{
+                    "particle", ",", "Ifconversion", ",", "Ifannihilation", 
+                    ",", "Ifdecays"}], "]"}], "//", "Total"}]], "/.", " ", 
+                    RowBox[{"{", 
+                    RowBox[{"nB", "->", 
+                    RowBox[{"nBn\[Gamma]", "[", 
+                    RowBox[{"t", ",", "tfinSim"}], "]"}]}], "}"}]}], "/.", 
+                   " ", "solYnew"}], "/.", 
+                  RowBox[{"{", 
+                   RowBox[{
+                    RowBox[{"T", "->", 
+                    RowBox[{"T\[Gamma]solApprox", "[", "t", "]"}]}], ",", 
+                    RowBox[{
+                    RowBox[{"aRatio", "[", "t_", "]"}], ":>", 
+                    RowBox[{"aratiosolApprox", "[", "t", "]"}]}], ",", 
+                    RowBox[{
+                    RowBox[{"T\[Gamma]", "[", "t_", "]"}], ":>", 
+                    RowBox[{"T\[Gamma]solApprox", "[", "t", "]"}]}]}], 
+                   "}"}]}], ")"}], "&"}], "/@", 
+               RowBox[{"{", 
+                RowBox[{"1", ",", "2", ",", "3"}], "}"}]}]}], ";", 
+             "\[IndentingNewLine]", 
+             RowBox[{
+              RowBox[{"{", 
+               RowBox[{
+                RowBox[{"probDec", "[", 
+                 RowBox[{"particle", ",", "t_"}], "]"}], ",", 
+                RowBox[{"probAnn", "[", 
+                 RowBox[{"particle", ",", "t_"}], "]"}], ",", 
+                RowBox[{"probNucl", "[", 
+                 RowBox[{"particle", ",", "t_"}], "]"}]}], "}"}], "=", 
+              RowBox[{
+               RowBox[{
+                RowBox[{"If", "[", 
+                 RowBox[{
+                  RowBox[{"t", "<", 
+                   RowBox[{"10.", "*", "\[Tau]llp"}]}], ",", 
+                  RowBox[{"Evaluate", "[", 
+                   RowBox[{"#", "[", 
+                    RowBox[{"particle", ",", "t"}], "]"}], "]"}], ",", 
+                  RowBox[{"Evaluate", "[", 
+                   RowBox[{"#", "[", 
+                    RowBox[{"particle", ",", 
+                    RowBox[{"10", "*", "\[Tau]llp"}]}], "]"}], "]"}]}], "]"}],
+                 "&"}], "/@", 
+               RowBox[{"{", 
+                RowBox[{"probDec", ",", "probAnn", ",", "probNucl"}], 
+                "}"}]}]}], ";"}], "\[IndentingNewLine]", ",", 
+            "\[IndentingNewLine]", 
+            RowBox[{
+             RowBox[{
+              RowBox[{"probDec", "[", 
+               RowBox[{"particle", ",", "t_"}], "]"}], "=", "0."}], ";", 
+             "\[IndentingNewLine]", 
+             RowBox[{
+              RowBox[{"probNucl", "[", 
+               RowBox[{"particle", ",", "t_"}], "]"}], "=", "0."}], ";", 
+             "\[IndentingNewLine]", 
+             RowBox[{
+              RowBox[{"probAnn", "[", 
+               RowBox[{"particle", ",", "t_"}], "]"}], "=", "0."}], ";", 
+             "\[IndentingNewLine]", 
+             RowBox[{
+              RowBox[{"Ysource", "[", 
+               RowBox[{"particle", ",", "t_"}], "]"}], "=", "0."}], ";", 
+             "\[IndentingNewLine]", 
+             RowBox[{
+              RowBox[{"YieldPerLLP", "[", 
+               RowBox[{"particle", ",", "t_"}], "]"}], "=", "0."}], ";"}]}], 
+           "\[IndentingNewLine]", "]"}]}], "\[IndentingNewLine]", "]"}], 
+        "\[IndentingNewLine]", ",", 
+        RowBox[{"{", 
+         RowBox[{"particle", ",", 
+          RowBox[{"{", 
+           RowBox[{
+           "\"\<\!\(\*SuperscriptBox[\(\[Mu]\), \(+\)]\)\>\"", ",", 
+            "\"\<\!\(\*SuperscriptBox[\(\[Mu]\), \(-\)]\)\>\"", ",", 
+            "\"\<\!\(\*SuperscriptBox[\(\[Pi]\), \(+\)]\)\>\"", ",", 
+            "\"\<\!\(\*SuperscriptBox[\(\[Pi]\), \(-\)]\)\>\"", ",", 
+            "\"\<\!\(\*SuperscriptBox[\(K\), \(+\)]\)\>\"", ",", 
+            "\"\<\!\(\*SuperscriptBox[\(K\), \(-\)]\)\>\"", ",", 
+            "\"\<\!\(\*SubscriptBox[\(K\), \(L\)]\)\>\""}], "}"}]}], "}"}]}], 
+       "]"}], ";", "\[IndentingNewLine]", "\[IndentingNewLine]", 
+      RowBox[{"Do", "[", "\[IndentingNewLine]", 
+       RowBox[{
+        RowBox[{"If", "[", 
+         RowBox[{
+          RowBox[{"ProdProbCheckerLLP", "[", 
+           RowBox[{"LLPsel", ",", "mllp", ",", "particle"}], "]"}], ",", 
+          "\[IndentingNewLine]", 
+          RowBox[{
+           RowBox[{
+            RowBox[{"YieldPerLLP", "[", 
+             RowBox[{"particle", ",", "t_"}], "]"}], "=", 
+            RowBox[{
+             RowBox[{
+              RowBox[{
+               RowBox[{
+                RowBox[{"Evaluate", "[", 
+                 RowBox[{"FractionPerLLP", "[", 
+                  RowBox[{
+                  "particle", ",", "\"\<All\>\"", ",", "Ifconversion", ",", 
+                   "Ifannihilation", ",", "Ifdecays"}], "]"}], "]"}], "/.", 
+                RowBox[{"{", 
+                 RowBox[{
+                  RowBox[{"T", "->", 
+                   RowBox[{"T\[Gamma]solApprox", "[", "t", "]"}]}], ",", 
+                  RowBox[{"Xn", "->", 
+                   RowBox[{"sc", "*", 
+                    RowBox[{"Xn", "[", "t", "]"}]}]}], ",", 
+                  RowBox[{"BrToKCharged", "->", "ntoKp"}], ",", 
+                  RowBox[{"BrToKLong", "->", "ntoKL"}], ",", 
+                  RowBox[{"BrTo\[Pi]", "->", "nto\[Pi]"}], ",", 
+                  RowBox[{"BrTo\[Mu]", "->", "nto\[Mu]"}]}], "}"}]}], "/.", 
+               RowBox[{"Flatten", "[", 
+                RowBox[{"Table", "[", 
+                 RowBox[{
+                  RowBox[{"{", 
+                   RowBox[{
+                    RowBox[{
+                    RowBox[{"Pdec", "[", "pt", "]"}], "->", 
+                    RowBox[{"probDec", "[", 
+                    RowBox[{"pt", ",", "t"}], "]"}]}], ",", 
+                    RowBox[{
+                    RowBox[{"Pann", "[", "pt", "]"}], "->", 
+                    RowBox[{"probAnn", "[", 
+                    RowBox[{"pt", ",", "t"}], "]"}]}], ",", 
+                    RowBox[{
+                    RowBox[{"Pnucl", "[", "pt", "]"}], "->", 
+                    RowBox[{"probNucl", "[", 
+                    RowBox[{"pt", ",", "t"}], "]"}]}]}], "}"}], ",", 
+                  RowBox[{"{", 
+                   RowBox[{"pt", ",", "Yparticleslist"}], "}"}]}], "]"}], 
+                "]"}]}], "/.", "solYnew"}], "/.", " ", 
+             "solUniverseApprox"}]}], ";", "\[IndentingNewLine]", 
+           RowBox[{
+            RowBox[{"Ysource", "[", 
+             RowBox[{"particle", ",", "t_"}], "]"}], "=", 
+            RowBox[{
+             RowBox[{
+              RowBox[{
+               RowBox[{
+                RowBox[{
+                 RowBox[{
+                  FractionBox[
+                   RowBox[{"nllpscaling", "[", "t", "]"}], "\[Tau]llp"], "*", 
+                  RowBox[{"BrList", "[", "particle", "]"}]}], "+", 
+                 RowBox[{"If", "[", 
+                  RowBox[{"Ifconversion", ",", 
+                   RowBox[{"Sum", "[", 
+                    RowBox[{
+                    RowBox[{
+                    RowBox[{"SourceTerms", "[", 
+                    RowBox[{"pt", ",", "particle", ",", "\"\<Decays\>\""}], 
+                    "]"}], "+", 
+                    RowBox[{"SourceTerms", "[", 
+                    RowBox[{
+                    "pt", ",", "particle", ",", "\"\<Nucleon\>\"", ",", "nB", 
+                    ",", "T"}], "]"}]}], ",", 
+                    RowBox[{"{", 
+                    RowBox[{"pt", ",", "Yparticleslist"}], "}"}]}], "]"}], 
+                   ",", "0."}], "]"}], "+", 
+                 RowBox[{"If", "[", 
+                  RowBox[{"Ifannihilation", ",", 
+                   RowBox[{"Sum", "[", 
+                    RowBox[{
+                    RowBox[{"SourceTerms", "[", 
+                    RowBox[{
+                    "ptmother", ",", "particle", ",", 
+                    "\"\<Annihilation\>\""}], "]"}], ",", 
+                    RowBox[{"{", 
+                    RowBox[{"ptmother", ",", 
+                    RowBox[{"{", 
+                    RowBox[{
+                    "\"\<\!\(\*SuperscriptBox[\(K\), \(+\)]\)\>\"", ",", 
+                    "\"\<\!\(\*SubscriptBox[\(K\), \(L\)]\)\>\"", ",", 
+                    "\"\<\!\(\*SuperscriptBox[\(\[Mu]\), \(+\)]\)\>\"", ",", 
+                    "\"\<\!\(\*SuperscriptBox[\(\[Pi]\), \(+\)]\)\>\""}], 
+                    "}"}]}], "}"}]}], "]"}], ",", "0."}], "]"}]}], "/.", 
+                RowBox[{"{", 
+                 RowBox[{
+                  RowBox[{"IfDecays", "->", "Ifdecays"}], ",", 
+                  RowBox[{"IfConversion", "->", "Ifconversion"}], ",", 
+                  RowBox[{"IfPionConversion", "->", "True"}], ",", 
+                  RowBox[{"IfAnnihilation", "->", "Ifannihilation"}], ",", 
+                  RowBox[{"BrToKCharged", "->", "ntoKp"}], ",", 
+                  RowBox[{"BrToKLong", "->", "ntoKL"}], ",", 
+                  RowBox[{"BrTo\[Pi]", "->", "nto\[Pi]"}], ",", 
+                  RowBox[{"BrTo\[Mu]", "->", "nto\[Mu]"}], ",", 
+                  RowBox[{"nB", "->", 
+                   RowBox[{"nBn\[Gamma]", "[", 
+                    RowBox[{"t", ",", "tfinSim"}], "]"}]}]}], "}"}]}], "/.", 
+               "solYnew"}], "/.", " ", 
+              RowBox[{"T", "->", 
+               RowBox[{"(", 
+                RowBox[{"T\[Gamma]solApprox", "[", "t", "]"}], ")"}]}]}], "/.",
+              " ", "solUniverseApprox"}]}], ";", "\[IndentingNewLine]", 
+           RowBox[{
+            RowBox[{"{", 
+             RowBox[{
+              RowBox[{"Ysource", "[", 
+               RowBox[{"particle", ",", "t_"}], "]"}], ",", 
+              RowBox[{"YieldPerLLP", "[", 
+               RowBox[{"particle", ",", "t_"}], "]"}]}], "}"}], "=", 
+            RowBox[{
+             RowBox[{
+              RowBox[{"If", "[", 
+               RowBox[{
+                RowBox[{"t", "<", 
+                 RowBox[{"10.", "*", "\[Tau]llp"}]}], ",", 
+                RowBox[{"Evaluate", "[", 
+                 RowBox[{"#", "[", 
+                  RowBox[{"particle", ",", "t"}], "]"}], "]"}], ",", "0."}], 
+               "]"}], "&"}], "/@", 
+             RowBox[{"{", 
+              RowBox[{"Ysource", ",", "YieldPerLLP"}], "}"}]}]}], ";"}], 
+          "\[IndentingNewLine]", ",", "\[IndentingNewLine]", 
+          RowBox[{
+           RowBox[{
+            RowBox[{"YieldPerLLP", "[", 
+             RowBox[{"particle", ",", "t_"}], "]"}], "=", 
+            RowBox[{
+             RowBox[{"Ysource", "[", 
+              RowBox[{"particle", ",", "t_"}], "]"}], "=", "0."}]}], ";"}]}], 
+         "\[IndentingNewLine]", "]"}], "\[IndentingNewLine]", ",", 
+        RowBox[{"{", 
+         RowBox[{"particle", ",", 
+          RowBox[{"{", 
+           RowBox[{
+           "\"\<\!\(\*SuperscriptBox[\(\[Mu]\), \(+\)]\)\>\"", ",", 
+            "\"\<\!\(\*SuperscriptBox[\(\[Mu]\), \(-\)]\)\>\"", ",", 
+            "\"\<\!\(\*SuperscriptBox[\(\[Pi]\), \(+\)]\)\>\"", ",", 
+            "\"\<\!\(\*SuperscriptBox[\(\[Pi]\), \(-\)]\)\>\"", ",", 
+            "\"\<\!\(\*SuperscriptBox[\(K\), \(+\)]\)\>\"", ",", 
+            "\"\<\!\(\*SuperscriptBox[\(K\), \(-\)]\)\>\"", ",", 
+            "\"\<\!\(\*SubscriptBox[\(K\), \(L\)]\)\>\""}], "}"}]}], "}"}]}], 
+       "]"}], ";", "\[IndentingNewLine]", 
+      RowBox[{"Do", "[", "\[IndentingNewLine]", 
+       RowBox[{
+        RowBox[{
+         RowBox[{
+          RowBox[{"YieldPerLLP", "[", 
+           RowBox[{"particle", ",", "t_"}], "]"}], "=", 
+          RowBox[{
+           RowBox[{
+            RowBox[{
+             RowBox[{
+              RowBox[{"Evaluate", "[", 
+               RowBox[{"FractionPerLLP", "[", 
+                RowBox[{
+                "particle", ",", "\"\<All\>\"", ",", "Ifconversion", ",", 
+                 "Ifannihilation", ",", "Ifdecays"}], "]"}], "]"}], "/.", 
+              RowBox[{"{", 
+               RowBox[{
+                RowBox[{"T", "->", 
+                 RowBox[{"T\[Gamma]solApprox", "[", "t", "]"}]}], ",", 
+                RowBox[{"Xn", "->", 
+                 RowBox[{"sc", "*", 
+                  RowBox[{"Xn", "[", "t", "]"}]}]}], ",", 
+                RowBox[{"BrToKCharged", "->", "ntoKp"}], ",", 
+                RowBox[{"BrToKLong", "->", "ntoKL"}], ",", 
+                RowBox[{"BrTo\[Pi]", "->", "nto\[Pi]"}], ",", 
+                RowBox[{"BrTo\[Mu]", "->", "nto\[Mu]"}]}], "}"}]}], "/.", 
+             RowBox[{"Flatten", "[", 
+              RowBox[{"Table", "[", 
+               RowBox[{
+                RowBox[{"{", 
+                 RowBox[{
+                  RowBox[{
+                   RowBox[{"Pdec", "[", "pt", "]"}], "->", 
+                   RowBox[{"probDec", "[", 
+                    RowBox[{"pt", ",", "t"}], "]"}]}], ",", 
+                  RowBox[{
+                   RowBox[{"Pann", "[", "pt", "]"}], "->", 
+                   RowBox[{"probAnn", "[", 
+                    RowBox[{"pt", ",", "t"}], "]"}]}], ",", 
+                  RowBox[{
+                   RowBox[{"Pnucl", "[", "pt", "]"}], "->", 
+                   RowBox[{"probNucl", "[", 
+                    RowBox[{"pt", ",", "t"}], "]"}]}]}], "}"}], ",", 
+                RowBox[{"{", 
+                 RowBox[{"pt", ",", "Yparticleslist"}], "}"}]}], "]"}], 
+              "]"}]}], "/.", "solYnew"}], "/.", " ", "solUniverseApprox"}]}], 
+         ";"}], "\[IndentingNewLine]", ",", 
+        RowBox[{"{", 
+         RowBox[{"particle", ",", 
+          RowBox[{"{", 
+           RowBox[{
+           "\"\<\!\(\*SuperscriptBox[\(e\), \(+\)]\)\>\"", ",", 
+            "\"\<\!\(\*SuperscriptBox[\(e\), \(-\)]\)\>\""}], "}"}]}], 
+         "}"}]}], "]"}], ";", "\[IndentingNewLine]", 
+      RowBox[{"tpoints", "=", 
+       RowBox[{"tpointsBlock", "[", 
+        RowBox[{"npoints", ",", "t0", ",", "tEnd", ",", "T\[Gamma]sol"}], 
+        "]"}]}], ";", "\[IndentingNewLine]", 
+      RowBox[{"(*", 
+       RowBox[{
+       "Return", " ", "basic", " ", "info", " ", "about", " ", "the", " ", 
+        "Universe", " ", "plus", " ", "tabulated", " ", "decay", " ", 
+        "probabilities", " ", "of", " ", "the", " ", "selected", " ", 
+        "particles", " ", "for", " ", "temperature", " ", "in", " ", "MeV"}], 
+       "*)"}], "\[IndentingNewLine]", 
+      RowBox[{"(*", 
        RowBox[{
         RowBox[{"{", 
-         RowBox[{"#", ",", 
-          RowBox[{"BlockTempNeff", "[", 
-           RowBox[{"\"\<Scalar\>\"", ",", "0.6", ",", "#"}], "]"}]}], "}"}], 
-        "&"}], "/@", 
-       RowBox[{"Table", "[", 
-        RowBox[{"x", ",", 
-         RowBox[{"{", 
-          RowBox[{"x", ",", "0.5", ",", "1.", ",", "0.05"}], "}"}]}], 
-        "]"}]}]}]}], ";", "\[IndentingNewLine]", 
-    RowBox[{"ListPlot", "[", 
-     RowBox[{"datta", ",", 
-      RowBox[{"Joined", "->", "True"}]}], "]"}]}], "*)"}], 
-  "\[IndentingNewLine]"}]], "Input",
- CellChangeTimes->{{3.936247469010044*^9, 3.9362474769133615`*^9}, {
-  3.9362475084347258`*^9, 3.936247523912068*^9}, {3.936247567993565*^9, 
-  3.9362477172956676`*^9}, {3.936247764071367*^9, 3.9362477642454405`*^9}, {
-  3.936248292734818*^9, 3.936248293401274*^9}, {3.9362483561775465`*^9, 
-  3.9362483566140337`*^9}, {3.936251539201292*^9, 3.9362515506015573`*^9}, {
-  3.9362517043562346`*^9, 3.936251706510497*^9}, {3.9362522026704473`*^9, 
-  3.936252204880947*^9}},
- CellLabel->"In[13]:=",ExpressionUUID->"b0e9b820-cce1-4502-9a2a-3d7d584789bd"]
+         RowBox[{
+          RowBox[{"{", 
+           RowBox[{
+           "mllp", ",", "\[Tau]llp", ",", "nLLPinput", ",", "Neff", ",", 
+            "r1val", ",", "r2val", ",", "r3val", ",", "nto\[Mu]", ",", 
+            "nto\[Pi]", ",", "ntoKp", ",", "ntoKL", ",", 
+            RowBox[{"calcBaseInjectedEnergy", "[", 
+             RowBox[{"LLPsel", ",", "mllp"}], "]"}]}], "}"}], ",", 
+          RowBox[{"Table", "[", 
+           RowBox[{
+            RowBox[{"Flatten", "[", 
+             RowBox[{"{", 
+              RowBox[{
+               RowBox[{
+                SuperscriptBox["10", "3"], 
+                RowBox[{"T\[Gamma]sol", "[", "t", "]"}]}], ",", 
+               RowBox[{"Table", "[", 
+                RowBox[{
+                 RowBox[{"probDec", "[", 
+                  RowBox[{"particle", ",", "t"}], "]"}], ",", 
+                 RowBox[{"{", 
+                  RowBox[{"particle", ",", "particles"}], "}"}]}], "]"}]}], 
+              "}"}], "]"}], ",", 
+            RowBox[{"{", 
+             RowBox[{"t", ",", "tpoints"}], "}"}]}], "]"}]}], "}"}], "//", 
+        "N"}], "*)"}], "\[IndentingNewLine]", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"{", 
+         RowBox[{
+         "mllp", ",", "\[Tau]llp", ",", "nLLPinput", ",", "Neff", ",", 
+          "r1val", ",", "r2val", ",", "r3val", ",", "nto\[Mu]", ",", 
+          "nto\[Pi]", ",", "ntoKp", ",", "ntoKL", ",", 
+          RowBox[{"calcBaseInjectedEnergy", "[", 
+           RowBox[{"LLPsel", ",", "mllp"}], "]"}]}], "}"}], ",", 
+        RowBox[{"(*", 
+         RowBox[{
+          RowBox[{
+           RowBox[{"Table", "[", 
+            RowBox[{
+             RowBox[{"Flatten", "[", 
+              RowBox[{"{", 
+               RowBox[{"t", ",", 
+                RowBox[{
+                 SuperscriptBox["10", "3"], 
+                 RowBox[{"T\[Gamma]sol", "[", "t", "]"}]}], ",", 
+                RowBox[{"Table", "[", 
+                 RowBox[{
+                  RowBox[{"probDec", "[", 
+                   RowBox[{"particle", ",", "t"}], "]"}], ",", 
+                  RowBox[{"{", 
+                   RowBox[{"particle", ",", "particles"}], "}"}]}], "]"}]}], 
+               "}"}], "]"}], ",", 
+             RowBox[{"{", 
+              RowBox[{"t", ",", "tpoints"}], "}"}]}], "]"}], "//", "N"}], ",",
+           "solY"}], "*)"}], 
+        RowBox[{
+         RowBox[{"\[Rho]\[Nu]Total", "[", 
+          RowBox[{
+           RowBox[{"T\[Nu]e", "[", "t", "]"}], ",", 
+           RowBox[{"T\[Nu]\[Mu]", "[", "t", "]"}], ",", 
+           RowBox[{"T\[Nu]\[Tau]", "[", "t", "]"}]}], "]"}], "/.", " ", 
+         "solUniverse"}], ",", 
+        RowBox[{"aratiosol", "[", "t", "]"}], ",", 
+        RowBox[{
+         RowBox[{"Join", "[", 
+          RowBox[{
+           RowBox[{"{", 
+            RowBox[{"{", 
+             RowBox[{
+             "\"\<Y\>\"", ",", 
+              "\"\<\!\(\*SubscriptBox[\(n\), \(Y\)]\)(t)\>\"", ",", 
+              "\"\<\!\(\*SubscriptBox[\(P\), \(decay\)]\)\>\"", ",", 
+              "\"\<\!\(\*SubscriptBox[\(P\), \(nucl\)]\)\>\"", ",", 
+              "\"\<\!\(\*SubscriptBox[\(P\), \(ann\)]\)\>\"", ",", 
+              "\"\<\!\(\*SubscriptBox[\(N\), \(LLP \[Rule] Y, \
+overall\)]\)\>\"", ",", 
+              "\"\<\!\(\*FractionBox[SubscriptBox[\((\*SubscriptBox[\(dn\), \
+\(Y\)]/dt)\), \(source\)], \(\*SubscriptBox[\(dn\), \(LLP\)]/dt\)]\)\>\""}], 
+             "}"}], "}"}], ",", 
+           RowBox[{"Join", "[", 
+            RowBox[{"Table", "[", 
+             RowBox[{
+              RowBox[{"{", 
+               RowBox[{"particle", ",", 
+                RowBox[{"If", "[", 
+                 RowBox[{
+                  RowBox[{"ProdProbCheckerLLP", "[", 
+                   RowBox[{"LLPsel", ",", "mllp", ",", "particle"}], "]"}], 
+                  ",", 
+                  RowBox[{
+                   RowBox[{
+                    RowBox[{"nSymbol", "[", "particle", "]"}], "[", "t", 
+                    "]"}], 
+                   RowBox[{"(*", 
+                    RowBox[{"*", 
+                    RowBox[{"probDec", "[", 
+                    RowBox[{"particle", ",", "t"}], "]"}]}], "*)"}], "/.", 
+                   "solYnew"}], ",", "0."}], "]"}], ",", 
+                RowBox[{"probDec", "[", 
+                 RowBox[{"particle", ",", "t"}], "]"}], ",", 
+                RowBox[{"probNucl", "[", 
+                 RowBox[{"particle", ",", "t"}], "]"}], ",", 
+                RowBox[{"probAnn", "[", 
+                 RowBox[{"particle", ",", "t"}], "]"}], ",", 
+                RowBox[{"YieldPerLLP", "[", 
+                 RowBox[{"particle", ",", "t"}], "]"}], ",", 
+                FractionBox[
+                 RowBox[{"Ysource", "[", 
+                  RowBox[{"particle", ",", "t"}], "]"}], 
+                 RowBox[{
+                  RowBox[{"nllpscaling", "[", "t", "]"}], "/", 
+                  "\[Tau]llp"}]]}], "}"}], ",", 
+              RowBox[{"{", 
+               RowBox[{"particle", ",", "Yparticleslist"}], "}"}]}], "]"}], 
+            "]"}], ",", 
+           RowBox[{"{", 
+            RowBox[{
+             RowBox[{"{", 
+              RowBox[{
+              "\"\<\!\(\*SuperscriptBox[\(e\), \(-\)]\)\>\"", ",", "0.", ",", 
+               "0.", ",", "0.", ",", "0.", ",", 
+               RowBox[{"YieldPerLLP", "[", 
+                RowBox[{
+                "\"\<\!\(\*SuperscriptBox[\(e\), \(-\)]\)\>\"", ",", "t"}], 
+                "]"}], ",", "0."}], "}"}], ",", 
+             RowBox[{"{", 
+              RowBox[{
+              "\"\<\!\(\*SuperscriptBox[\(e\), \(+\)]\)\>\"", ",", "0.", ",", 
+               "0.", ",", "0.", ",", "0.", ",", 
+               RowBox[{"YieldPerLLP", "[", 
+                RowBox[{
+                "\"\<\!\(\*SuperscriptBox[\(e\), \(+\)]\)\>\"", ",", "t"}], 
+                "]"}], ",", "0."}], "}"}]}], "}"}]}], "]"}], "/.", "solY"}], 
+        ",", 
+        RowBox[{"nllpscaling", "[", "t", "]"}], ",", "solYnew", ",", 
+        "solUniverse", ",", "solUniverseApprox", ",", 
+        RowBox[{"T\[Gamma]solApprox", "[", "t", "]"}], ",", 
+        RowBox[{"aratiosolApprox", "[", "t", "]"}], ",", 
+        RowBox[{
+         RowBox[{"sc", "*", 
+          RowBox[{"Xn", "[", "t", "]"}]}], "/.", "solYnew"}]}], "}"}]}]}], 
+    "\[IndentingNewLine]", "]"}]}]}]], "Input",
+ CellChangeTimes->{{3.94112025978393*^9, 3.941120271999323*^9}, {
+   3.9411206873603573`*^9, 3.941120693169443*^9}, {3.9411207344757023`*^9, 
+   3.9411207373988056`*^9}, {3.9411214086348114`*^9, 
+   3.9411214320860367`*^9}, {3.9411215185294666`*^9, 3.941121585770296*^9}, {
+   3.941121667791567*^9, 3.9411216712529545`*^9}, {3.9411217578775635`*^9, 
+   3.941121778472866*^9}, {3.9411218486977367`*^9, 3.9411218497055798`*^9}, {
+   3.9411219205100136`*^9, 3.9411219518222523`*^9}, {3.9411220253975544`*^9, 
+   3.9411220639327164`*^9}, {3.9411223972764416`*^9, 
+   3.9411224595839577`*^9}, {3.941123423383198*^9, 3.941123482071924*^9}, {
+   3.941123609543028*^9, 3.94112377385178*^9}, {3.9411240471860676`*^9, 
+   3.941124177243143*^9}, {3.9411242449255104`*^9, 3.9411242549286976`*^9}, {
+   3.9411281755731335`*^9, 3.9411282190510197`*^9}, {3.9411282591218357`*^9, 
+   3.941128343463562*^9}, {3.9411284074654617`*^9, 3.941128428927269*^9}, {
+   3.941128476138609*^9, 3.941128539353243*^9}, {3.9411285897467957`*^9, 
+   3.941128634579193*^9}, {3.941128684209055*^9, 3.9411286877146473`*^9}, {
+   3.941128718299721*^9, 3.9411287600038223`*^9}, {3.941134228922903*^9, 
+   3.9411342333071136`*^9}, {3.941135536214449*^9, 3.9411355418044167`*^9}, {
+   3.941165765650463*^9, 3.941165769605236*^9}, {3.941166472249363*^9, 
+   3.941166530635803*^9}, {3.9411667595858803`*^9, 3.94116675983103*^9}, {
+   3.941166847245331*^9, 3.9411669520065327`*^9}, {3.9411670473463974`*^9, 
+   3.941167049661545*^9}, {3.9411672107740383`*^9, 3.9411672525794735`*^9}, {
+   3.941167332563162*^9, 3.941167348458193*^9}, {3.941167506047865*^9, 
+   3.941167517391073*^9}, {3.9411677990952187`*^9, 3.94116781609811*^9}, 
+   3.941167914428982*^9, {3.941168162769703*^9, 3.9411681850028934`*^9}, {
+   3.941168216029772*^9, 3.941168255459202*^9}, {3.941172600820345*^9, 
+   3.941172614877245*^9}, {3.941178754771927*^9, 3.9411787554212666`*^9}, {
+   3.9411828775986824`*^9, 3.941182950990343*^9}, {3.941192676446476*^9, 
+   3.941192753729828*^9}, {3.9411927844108353`*^9, 3.9411928299930325`*^9}, {
+   3.9411928709324207`*^9, 3.9411928736423397`*^9}, {3.9411929554083576`*^9, 
+   3.9411931120965195`*^9}, {3.9411932099204693`*^9, 3.941193217639683*^9}, {
+   3.9411934331146603`*^9, 3.9411934456664696`*^9}, {3.9411934809951515`*^9, 
+   3.941193481896839*^9}, {3.9411935169779167`*^9, 3.9411935190135403`*^9}, {
+   3.9411937665097084`*^9, 3.9411937701778564`*^9}, {3.9411940353356934`*^9, 
+   3.941194037938513*^9}, 3.9411941703281403`*^9, {3.941195191599308*^9, 
+   3.9411952638076496`*^9}, {3.9412082597365417`*^9, 
+   3.9412082658705254`*^9}, {3.941208771046236*^9, 3.941208773218439*^9}, {
+   3.941208948460932*^9, 3.941208995896099*^9}, {3.9412090300679207`*^9, 
+   3.9412090477105827`*^9}, {3.9412095091075096`*^9, 
+   3.9412095100806255`*^9}, {3.941254717697481*^9, 3.9412547179491787`*^9}, {
+   3.9415658093838806`*^9, 3.941565828528572*^9}, {3.941565889669567*^9, 
+   3.9415658964843235`*^9}, {3.9415659319900093`*^9, 
+   3.9415659326347275`*^9}, {3.9416112382715683`*^9, 
+   3.9416112395964413`*^9}, {3.9454059235438843`*^9, 3.94540593212759*^9}, {
+   3.945406034970751*^9, 3.9454060382059383`*^9}, 3.9454063902695904`*^9, {
+   3.945406460283983*^9, 3.9454064828719196`*^9}, {3.9454065227418556`*^9, 
+   3.945406558360752*^9}, {3.9454087863393097`*^9, 3.9454087863524914`*^9}, {
+   3.9454148566939697`*^9, 3.9454148802737255`*^9}, {3.9454153499494457`*^9, 
+   3.9454153686056232`*^9}, {3.945415561113308*^9, 3.945415565136841*^9}, {
+   3.9454156639775105`*^9, 3.9454157363710423`*^9}, {3.9454159917098026`*^9, 
+   3.9454160196834164`*^9}, {3.9454160617459774`*^9, 
+   3.9454160761142845`*^9}, {3.9454161380703754`*^9, 
+   3.9454161398097744`*^9}, {3.945416303181843*^9, 3.9454163061315556`*^9}, {
+   3.945422118817028*^9, 3.945422177692665*^9}, {3.9454227127099533`*^9, 
+   3.945422717193817*^9}, {3.9454228739169235`*^9, 3.945422880519123*^9}, {
+   3.9454230311335564`*^9, 3.945423104338629*^9}, {3.9454232151287975`*^9, 
+   3.9454232156402245`*^9}, {3.9454232845665703`*^9, 
+   3.9454232989433002`*^9}, {3.9454233626026974`*^9, 3.9454233718466854`*^9}, 
+   {3.9454236099373074`*^9, 3.9454236144703503`*^9}, {3.9454241292523174`*^9, 
+   3.9454241433907833`*^9}, {3.9454250359887924`*^9, 3.945425046300331*^9}, {
+   3.945937917661701*^9, 3.9459379261970577`*^9}, {3.9459381828710213`*^9, 
+   3.945938197726118*^9}, {3.945943012187109*^9, 3.9459430266123505`*^9}, {
+   3.946367691889206*^9, 3.946367695599203*^9}},
+ CellLabel->"In[12]:=",ExpressionUUID->"129d61f6-0109-9d4f-bde6-8087511a6dfc"]
+}, Open  ]]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -2732,7 +3390,7 @@ Cell[BoxData[
   3.9336124300004897`*^9}, {3.933612840060754*^9, 3.933612841821943*^9}, {
   3.933613873301114*^9, 3.933613875516182*^9}, {3.933615705729065*^9, 
   3.933615707506342*^9}, {3.933616286552313*^9, 3.933616290180176*^9}},
- CellLabel->"In[14]:=",ExpressionUUID->"2debe3dc-5ffe-402f-ae7d-fb7f1003eafe"]
+ CellLabel->"In[13]:=",ExpressionUUID->"2debe3dc-5ffe-402f-ae7d-fb7f1003eafe"]
 }, Open  ]]
 },
 WindowSize->{1142.1, 647.6999999999999},
@@ -2759,32 +3417,25 @@ Cell[580, 22, 232, 4, 47, "Subsection",ExpressionUUID->"a9e6e547-f953-4b15-9ec4-
 Cell[815, 28, 25273, 573, 911, "Input",ExpressionUUID->"020dfa1f-688e-4c46-95fc-b7e1a6de2f05"],
 Cell[CellGroupData[{
 Cell[26113, 605, 157, 3, 39, "Subsubsection",ExpressionUUID->"bce501e5-40df-48bc-843a-8ba42c64210a"],
-Cell[26273, 610, 20842, 503, 984, "Input",ExpressionUUID->"0e23c780-74dc-4da4-8d5b-f0bee7d70793"],
+Cell[26273, 610, 20859, 502, 984, "Input",ExpressionUUID->"0e23c780-74dc-4da4-8d5b-f0bee7d70793"],
 Cell[CellGroupData[{
-Cell[47140, 1117, 150, 3, 27, "Item",ExpressionUUID->"4acf1eeb-8c80-4fb7-9838-5e8ab22ea2d8"],
-Cell[47293, 1122, 19833, 464, 1151, "Input",ExpressionUUID->"30687c51-a89c-48d7-8422-290c81947f61"],
+Cell[47157, 1116, 150, 3, 27, "Item",ExpressionUUID->"4acf1eeb-8c80-4fb7-9838-5e8ab22ea2d8"],
+Cell[47310, 1121, 19828, 463, 1151, "Input",ExpressionUUID->"30687c51-a89c-48d7-8422-290c81947f61"],
+Cell[67141, 1586, 2380, 57, 145, "Input",ExpressionUUID->"e487b458-66d9-47a3-9de9-f35307c2c9aa"]
+}, Open  ]]
+}, Closed]]
+}, Open  ]],
 Cell[CellGroupData[{
-Cell[67151, 1590, 2380, 57, 145, "Input",ExpressionUUID->"e487b458-66d9-47a3-9de9-f35307c2c9aa"],
-Cell[69534, 1649, 760, 14, 29, "Output",ExpressionUUID->"9364cfd2-7c13-4aff-8146-2b49c3d61caa"],
-Cell[70297, 1665, 442, 7, 28, "Output",ExpressionUUID->"7a903104-c386-4e4e-a9ff-75db152267b6"],
-Cell[70742, 1674, 445, 7, 28, "Output",ExpressionUUID->"89176fc1-fc70-4219-8a66-ebb2a15796ae"],
-Cell[71190, 1683, 759, 15, 23, "Message",ExpressionUUID->"bb665822-3e46-417e-984a-bbe896788aef"],
-Cell[71952, 1700, 501, 9, 28, "Output",ExpressionUUID->"e4f1bdcb-3902-497a-bfae-324ac08c729e"],
-Cell[72456, 1711, 428, 7, 28, "Output",ExpressionUUID->"84208737-9f43-492a-a9d9-300c4122976d"],
-Cell[72887, 1720, 565, 12, 28, "Output",ExpressionUUID->"b6dc588e-6afd-49e6-8c35-50bac5827b89"]
-}, Open  ]]
-}, Open  ]]
+Cell[69582, 1650, 208, 4, 47, "Subsection",ExpressionUUID->"4c5c758c-b209-4ee3-bfcb-a3dce11aa931"],
+Cell[69793, 1656, 35907, 762, 1830, "Input",ExpressionUUID->"bf322a42-8908-43c3-b4b6-a9ea6dc0bcd6"],
+Cell[CellGroupData[{
+Cell[105725, 2422, 155, 3, 39, "Subsubsection",ExpressionUUID->"9638e941-547c-4142-b05a-90266845e3bb"],
+Cell[105883, 2427, 40743, 883, 2046, "Input",ExpressionUUID->"129d61f6-0109-9d4f-bde6-8087511a6dfc"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[73525, 1740, 208, 4, 47, "Subsection",ExpressionUUID->"4c5c758c-b209-4ee3-bfcb-a3dce11aa931"],
-Cell[73736, 1746, 31646, 692, 1610, "Input",ExpressionUUID->"bf322a42-8908-43c3-b4b6-a9ea6dc0bcd6"],
-Cell[105385, 2440, 1745, 34, 84, "Input",ExpressionUUID->"543f11e7-5937-4335-a5b8-68aa08a03ddb"],
-Cell[107133, 2476, 7744, 177, 424, "Input",ExpressionUUID->"b0e9b820-cce1-4502-9a2a-3d7d584789bd"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[114914, 2658, 154, 3, 47, "Subsection",ExpressionUUID->"744d48d7-bf1d-450b-8fd3-ba64845f3a93"],
-Cell[115071, 2663, 3245, 71, 111, "Input",ExpressionUUID->"2debe3dc-5ffe-402f-ae7d-fb7f1003eafe"]
+Cell[146675, 3316, 154, 3, 47, "Subsection",ExpressionUUID->"744d48d7-bf1d-450b-8fd3-ba64845f3a93"],
+Cell[146832, 3321, 3245, 71, 111, "Input",ExpressionUUID->"2debe3dc-5ffe-402f-ae7d-fb7f1003eafe"]
 }, Open  ]]
 }
 ]
