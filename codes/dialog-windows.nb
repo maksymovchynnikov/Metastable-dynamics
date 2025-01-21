@@ -1,0 +1,317 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Wolfram 14.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       154,          7]
+NotebookDataLength[     13098,        309]
+NotebookOptionsPosition[     12726,        295]
+NotebookOutlinePosition[     13139,        311]
+CellTagsIndexPosition[     13096,        308]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"selectionDialogExplanationOneOption", "[", 
+   RowBox[{"list_", ",", "descriptions_", ",", "phrase_", ",", "width_"}], 
+   "]"}], ":=", 
+  RowBox[{"DialogInput", "[", 
+   RowBox[{"Module", "[", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{"choice", "=", "Null"}], "}"}], ",", 
+     RowBox[{"(*", 
+      RowBox[{
+      "Create", " ", "an", " ", "association", " ", "for", " ", "easy", " ", 
+       "lookup", " ", "of", " ", "descriptions"}], "*)"}], 
+     RowBox[{"Module", "[", 
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{"optsAssoc", "=", 
+         RowBox[{"AssociationThread", "[", 
+          RowBox[{"list", "->", "descriptions"}], "]"}]}], "}"}], ",", 
+       RowBox[{"Column", "[", 
+        RowBox[{
+         RowBox[{"{", 
+          RowBox[{"(*", 
+           RowBox[{"Display", " ", "the", " ", "prompt", " ", "phrase"}], 
+           "*)"}], 
+          RowBox[{
+           RowBox[{"Style", "[", 
+            RowBox[{"phrase", ",", "Bold", ",", "16"}], "]"}], ",", 
+           RowBox[{"(*", 
+            RowBox[{
+            "Create", " ", "a", " ", "grid", " ", "with", " ", "the", " ", 
+             "selection", " ", "panel", " ", "and", " ", "description", " ", 
+             "panel"}], "*)"}], 
+           RowBox[{"Grid", "[", 
+            RowBox[{
+             RowBox[{"{", 
+              RowBox[{"{", 
+               RowBox[{"(*", 
+                RowBox[{"Selection", " ", 
+                 RowBox[{"Panel", ":", 
+                  RowBox[{
+                  "Allows", " ", "only", " ", "one", " ", "selection"}]}]}], 
+                "*)"}], 
+               RowBox[{
+                RowBox[{"Pane", "[", 
+                 RowBox[{
+                  RowBox[{"RadioButtonBar", "[", 
+                   RowBox[{
+                    RowBox[{"Dynamic", "[", "choice", "]"}], ",", "list", ",", 
+                    RowBox[{"Appearance", "->", "\"\<Vertical\>\""}]}], "]"}],
+                   ",", 
+                  RowBox[{"ImageSize", "->", 
+                   RowBox[{"{", 
+                    RowBox[{"width", ",", "200"}], "}"}]}], ",", 
+                  RowBox[{"Scrollbars", "->", 
+                   RowBox[{"{", 
+                    RowBox[{"False", ",", "True"}], "}"}]}], ",", 
+                  RowBox[{"Frame", "->", "True"}]}], "]"}], ",", 
+                RowBox[{"(*", 
+                 RowBox[{"Description", " ", 
+                  RowBox[{"Panel", ":", 
+                   RowBox[{
+                   "Displays", " ", "description", " ", "of", " ", "the", " ",
+                     "selected", " ", "option"}]}]}], "*)"}], 
+                RowBox[{"Pane", "[", 
+                 RowBox[{
+                  RowBox[{"Dynamic", "[", 
+                   RowBox[{"If", "[", 
+                    RowBox[{
+                    RowBox[{"choice", "===", "Null"}], ",", 
+                    "\"\<Please select an option to see its description.\>\"",
+                     ",", 
+                    RowBox[{"optsAssoc", "[", "choice", "]"}]}], "]"}], "]"}],
+                   ",", 
+                  RowBox[{"ImageSize", "->", 
+                   RowBox[{"{", 
+                    RowBox[{"200", ",", "100"}], "}"}]}], ",", 
+                  RowBox[{"Scrollbars", "->", 
+                   RowBox[{"{", 
+                    RowBox[{"True", ",", "False"}], "}"}]}], ",", 
+                  RowBox[{"Frame", "->", "True"}], ",", 
+                  RowBox[{"Background", "->", "LightYellow"}], ",", 
+                  RowBox[{"Alignment", "->", "Left"}]}], "]"}]}], "}"}], 
+              "}"}], ",", 
+             RowBox[{"Spacings", "->", 
+              RowBox[{"{", 
+               RowBox[{"2", ",", "2"}], "}"}]}]}], "]"}], ",", 
+           RowBox[{"(*", 
+            RowBox[{"Action", " ", "Buttons"}], "*)"}], 
+           RowBox[{"Row", "[", 
+            RowBox[{"{", 
+             RowBox[{
+              RowBox[{"Button", "[", 
+               RowBox[{"\"\<OK\>\"", ",", 
+                RowBox[{"DialogReturn", "[", "choice", "]"}], ",", 
+                RowBox[{"Enabled", "->", 
+                 RowBox[{"Dynamic", "[", 
+                  RowBox[{"choice", "=!=", "Null"}], "]"}]}], ",", 
+                RowBox[{"ImageSize", "->", 
+                 RowBox[{"{", 
+                  RowBox[{"80", ",", "30"}], "}"}]}]}], "]"}], ",", 
+              RowBox[{"Spacer", "[", "20", "]"}], ",", 
+              RowBox[{"Button", "[", 
+               RowBox[{"\"\<Cancel\>\"", ",", 
+                RowBox[{"DialogReturn", "[", "None", "]"}], ",", 
+                RowBox[{"ImageSize", "->", 
+                 RowBox[{"{", 
+                  RowBox[{"80", ",", "30"}], "}"}]}]}], "]"}]}], "}"}], "]"}],
+            ",", 
+           RowBox[{"Spacer", "[", "5", "]"}]}], "}"}], ",", 
+         RowBox[{"Alignment", "->", "Center"}], ",", 
+         RowBox[{"Spacings", "->", "2"}]}], "]"}]}], "]"}]}], "]"}], 
+   "]"}]}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"selectionDialogExplanationMultipleOptions", "[", 
+    RowBox[{"list_", ",", "descriptions_", ",", "phrase_", ",", "width_"}], 
+    "]"}], ":=", 
+   RowBox[{"DialogInput", "[", 
+    RowBox[{"DynamicModule", "[", 
+     RowBox[{
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"choice", "=", 
+         RowBox[{"{", "}"}]}], ",", 
+        RowBox[{"lastSelected", "=", "Null"}], ",", "optsAssoc"}], "}"}], ",", 
+      RowBox[{"(*", 
+       RowBox[{
+       "Create", " ", "association", " ", "for", " ", "easy", " ", 
+        "lookups"}], "*)"}], 
+      RowBox[{
+       RowBox[{"optsAssoc", "=", 
+        RowBox[{"AssociationThread", "[", 
+         RowBox[{"list", "->", "descriptions"}], "]"}]}], ";", 
+       "\[IndentingNewLine]", 
+       RowBox[{"Column", "[", 
+        RowBox[{
+         RowBox[{"{", 
+          RowBox[{
+           RowBox[{"Style", "[", 
+            RowBox[{"phrase", ",", "Bold", ",", "16"}], "]"}], ",", 
+           RowBox[{"Grid", "[", 
+            RowBox[{
+             RowBox[{"{", 
+              RowBox[{"{", 
+               RowBox[{"(*", 
+                RowBox[{"Multiple", "-", 
+                 RowBox[{"selection", " ", "checkboxes"}]}], "*)"}], 
+               RowBox[{
+                RowBox[{"Pane", "[", 
+                 RowBox[{
+                  RowBox[{"CheckboxBar", "[", 
+                   RowBox[{
+                    RowBox[{"Dynamic", "[", 
+                    RowBox[{"choice", ",", 
+                    RowBox[{"Function", "[", 
+                    RowBox[{
+                    RowBox[{"{", "newChoice", "}"}], ",", 
+                    RowBox[{"Module", "[", 
+                    RowBox[{
+                    RowBox[{"{", 
+                    RowBox[{"added", ",", "removed"}], "}"}], ",", 
+                    RowBox[{
+                    RowBox[{"added", "=", 
+                    RowBox[{"Complement", "[", 
+                    RowBox[{"newChoice", ",", "choice"}], "]"}]}], ";", 
+                    "\[IndentingNewLine]", 
+                    RowBox[{"removed", "=", 
+                    RowBox[{"Complement", "[", 
+                    RowBox[{"choice", ",", "newChoice"}], "]"}]}], ";", 
+                    "\[IndentingNewLine]", 
+                    RowBox[{"If", "[", 
+                    RowBox[{
+                    RowBox[{"added", "=!=", 
+                    RowBox[{"{", "}"}]}], ",", 
+                    RowBox[{"(*", 
+                    RowBox[{"A", " ", "new", " ", "item", " ", "was", " ", 
+                    RowBox[{"checked", ":", 
+                    RowBox[{"update", " ", "lastSelected"}]}]}], "*)"}], 
+                    RowBox[{"lastSelected", "=", 
+                    RowBox[{"First", "[", "added", "]"}]}], ",", 
+                    RowBox[{"(*", 
+                    RowBox[{"An", " ", "item", " ", "was", " ", 
+                    RowBox[{"unchecked", ":", 
+                    RowBox[{"reset", " ", "lastSelected", " ", 
+                    RowBox[{"(", 
+                    RowBox[{
+                    RowBox[{"or", " ", "keep"}], ",", 
+                    RowBox[{"your", " ", "choice"}]}], ")"}]}]}]}], "*)"}], 
+                    RowBox[{"If", "[", 
+                    RowBox[{
+                    RowBox[{"removed", "=!=", 
+                    RowBox[{"{", "}"}]}], ",", 
+                    RowBox[{"lastSelected", "=", "Null"}]}], "]"}]}], "]"}], 
+                    ";", "\[IndentingNewLine]", 
+                    RowBox[{"choice", "=", "newChoice"}], ";"}]}], "]"}]}], 
+                    "]"}]}], "]"}], ",", "list", ",", 
+                    RowBox[{"Appearance", "->", "\"\<Vertical\>\""}]}], "]"}],
+                   ",", 
+                  RowBox[{"ImageSize", "->", 
+                   RowBox[{"{", 
+                    RowBox[{"width", ",", "200"}], "}"}]}], ",", 
+                  RowBox[{"Scrollbars", "->", 
+                   RowBox[{"{", 
+                    RowBox[{"False", ",", "True"}], "}"}]}], ",", 
+                  RowBox[{"Frame", "->", "True"}]}], "]"}], ",", 
+                RowBox[{"(*", 
+                 RowBox[{"Description", " ", 
+                  RowBox[{"panel", ":", 
+                   RowBox[{
+                   "shows", " ", "only", " ", "the", " ", "most", " ", 
+                    "recently", " ", "added", " ", "item"}]}]}], "*)"}], 
+                RowBox[{"Pane", "[", 
+                 RowBox[{
+                  RowBox[{"Dynamic", "[", 
+                   RowBox[{"If", "[", 
+                    RowBox[{
+                    RowBox[{"lastSelected", "===", "Null"}], ",", 
+                    "\"\<Please select an option to see its description.\>\"",
+                     ",", 
+                    RowBox[{"optsAssoc", "[", "lastSelected", "]"}]}], "]"}], 
+                   "]"}], ",", 
+                  RowBox[{"ImageSize", "->", 
+                   RowBox[{"{", 
+                    RowBox[{"200", ",", "100"}], "}"}]}], ",", 
+                  RowBox[{"Scrollbars", "->", 
+                   RowBox[{"{", 
+                    RowBox[{"True", ",", "False"}], "}"}]}], ",", 
+                  RowBox[{"Frame", "->", "True"}], ",", 
+                  RowBox[{"Background", "->", "LightYellow"}], ",", 
+                  RowBox[{"Alignment", "->", "Left"}]}], "]"}]}], "}"}], 
+              "}"}], ",", 
+             RowBox[{"Spacings", "->", 
+              RowBox[{"{", 
+               RowBox[{"2", ",", "2"}], "}"}]}]}], "]"}], ",", 
+           RowBox[{"Row", "[", 
+            RowBox[{"{", 
+             RowBox[{
+              RowBox[{"Button", "[", 
+               RowBox[{"\"\<OK\>\"", ",", 
+                RowBox[{"DialogReturn", "[", "choice", "]"}], ",", 
+                RowBox[{"Enabled", "->", 
+                 RowBox[{"Dynamic", "[", 
+                  RowBox[{"choice", "=!=", 
+                   RowBox[{"{", "}"}]}], "]"}]}], ",", 
+                RowBox[{"(*", 
+                 RowBox[{
+                 "Must", " ", "have", " ", "at", " ", "least", " ", "one", 
+                  " ", "selection"}], "*)"}], 
+                RowBox[{"ImageSize", "->", 
+                 RowBox[{"{", 
+                  RowBox[{"80", ",", "30"}], "}"}]}]}], "]"}], ",", 
+              RowBox[{"Spacer", "[", "20", "]"}], ",", 
+              RowBox[{"Button", "[", 
+               RowBox[{"\"\<Cancel\>\"", ",", 
+                RowBox[{"DialogReturn", "[", "None", "]"}], ",", 
+                RowBox[{"ImageSize", "->", 
+                 RowBox[{"{", 
+                  RowBox[{"80", ",", "30"}], "}"}]}]}], "]"}]}], "}"}], "]"}],
+            ",", 
+           RowBox[{"Spacer", "[", "5", "]"}]}], "}"}], ",", 
+         RowBox[{"Alignment", "->", "Center"}], ",", 
+         RowBox[{"Spacings", "->", "2"}]}], "]"}]}]}], "]"}], "]"}]}], 
+  ";"}]}], "Input",
+ CellChangeTimes->{
+  3.9463964509943714`*^9, {3.94639764437475*^9, 3.9463976462303543`*^9}, 
+   3.9463977383433876`*^9, 3.9463978543552876`*^9, {3.946397899128311*^9, 
+   3.9463978994322586`*^9}, {3.946398235225794*^9, 3.946398235634922*^9}, {
+   3.946398365954933*^9, 3.9463983685930767`*^9}, 3.946436925146328*^9, 
+   3.946437046129877*^9, {3.946437171491907*^9, 3.946437182861017*^9}, 
+   3.946437429486847*^9, {3.9464377715098934`*^9, 
+   3.9464377730342045`*^9}},ExpressionUUID->"f80f0d90-d106-ff4e-840f-\
+8ec931b3bbb8"]
+},
+WindowSize->{1142.1, 647.6999999999999},
+WindowMargins->{{0, Automatic}, {Automatic, 0}},
+FrontEndVersion->"14.1 for Microsoft Windows (64-bit) (July 16, 2024)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"2234752c-b2fc-0240-a404-115924a2c92e"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[554, 20, 12168, 273, 484, "Input",ExpressionUUID->"f80f0d90-d106-ff4e-840f-8ec931b3bbb8"]
+}
+]
+*)
+
