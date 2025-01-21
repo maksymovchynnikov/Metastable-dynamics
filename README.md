@@ -8,16 +8,19 @@ The underlying physics is described in the associated preprints [2411.00931](htt
 
 ## Structure of the code
 
-The code consists of a few notebooks:
+The code consists of a few main notebooks:
 
 * <dt><code>main.nb</code></dt>
 * <dt><code>plot-numbers.nb</code></dt>
 * <dt><code>plot-distributions.nb</code></dt>
 
+as well a secondary notebooks defining details of the metastable particles dynamics and various routines. Additional details are provided in the Appendix of [2411.00931](https://arxiv.org/abs/2411.00931). 
+
+The first notebook defines all the machinery needed to calculate the dynamics of the metastable particles in the form of the probabilities to decay, annihilate, and scatter off nucleons. It also exports the data in the format suitable for the unintegrated neutrino Boltzmann equation solver described in the same papers. 
 
 ## How to launch
 
-Just launch the initialization cells in the main notebook <code>main.nb</code>. Additional details are provided in the Appendix of [2411.00931](https://arxiv.org/abs/2411.00931). 
+Just launch the initialization cells in the main notebook <code>main.nb</code>.
 
 For the given implemented model, after launching the initialization cells, launch manually the content of the chapter "Launching for mass and lifetime grids". 
 
